@@ -1,0 +1,10 @@
+{
+  "id": "wims-math-exercise-generator",
+  "type": "edtech_pedagogy",
+  "title": "法国国家 WIMS 体系变参数高阶数学题目与校验规则技能",
+  "region": "France WIMS",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "自动生成兼容法国大学与高中在线交互系统 WIMS/Euler 的变参数高阶数学题目与评分规则。",
+  "path": "skills/edtech-pedagogy-100/wims-math-exercise-generator"
+}

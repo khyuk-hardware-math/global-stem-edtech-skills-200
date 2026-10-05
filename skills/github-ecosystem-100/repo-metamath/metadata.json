@@ -1,0 +1,11 @@
+{
+  "id": "repo-metamath",
+  "type": "github_ecosystem",
+  "repo": "metamath/metamath-exe",
+  "title": "数十年历史的纯文本形式化严谨逻辑与数学系统，定理检验毫无漏洞",
+  "tech_stack": "C, Assembly",
+  "domain": "Proof Verifier",
+  "url": "https://github.com/metamath/metamath-exe",
+  "description": "数十年历史的纯文本形式化严谨逻辑与数学系统，定理检验毫无漏洞",
+  "path": "skills/github-ecosystem-100/repo-metamath"
+}

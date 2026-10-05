@@ -1,0 +1,10 @@
+{
+  "id": "academic-vocabulary-sublist-master",
+  "type": "edtech_pedagogy",
+  "title": "学术核心词汇表 (AWL 570) 词根词缀扩展与多义辨析技能",
+  "region": "Academic Vocabulary",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "专项训练学术论文核心 570 词族（如 accommodate, aggregate, inherent, empirical）的多义考法。",
+  "path": "skills/edtech-pedagogy-100/academic-vocabulary-sublist-master"
+}

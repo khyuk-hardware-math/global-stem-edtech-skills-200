@@ -1,0 +1,10 @@
+{
+  "id": "ap-chemistry-thermodynamics-cell",
+  "type": "edtech_pedagogy",
+  "title": "美国 AP 化学 能斯特方程、吉布斯自由能与基元反应碰撞理论技能",
+  "region": "USA AP",
+  "subject": "Chemistry",
+  "hardware_node": "seoul-m4-director",
+  "description": "联立吉布斯自由能 ΔG° = -nFE°、能斯特方程非标态电势与化学反应速率碰撞理论。",
+  "path": "skills/edtech-pedagogy-100/ap-chemistry-thermodynamics-cell"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "jee-inorganic-reaction-matrix",
+  "type": "edtech_pedagogy",
+  "title": "印度 JEE 进阶无机反应网络与配位化学机理构建技能",
+  "region": "India JEE",
+  "subject": "Chemistry",
+  "hardware_node": "seoul-m4-director",
+  "description": "针对印度 JEE 对无机定性分析与配位化学极端苛刻考法，构建主族/过渡金属立体反应机理与颜色沉淀矩阵。",
+  "path": "skills/edtech-pedagogy-100/jee-inorganic-reaction-matrix"
+}

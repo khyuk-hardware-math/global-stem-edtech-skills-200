@@ -1,0 +1,11 @@
+{
+  "id": "repo-kyodai-math-tex",
+  "type": "github_ecosystem",
+  "repo": "kyodai-math-tex/creative-solutions",
+  "title": "京都大学特色数学入试真题优雅解答与纯几何证明代码集",
+  "tech_stack": "LaTeX, Asymptote",
+  "domain": "Japan Kyodai",
+  "url": "https://github.com/kyodai-math-tex/creative-solutions",
+  "description": "京都大学特色数学入试真题优雅解答与纯几何证明代码集",
+  "path": "skills/github-ecosystem-100/repo-kyodai-math-tex"
+}

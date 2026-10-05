@@ -1,0 +1,10 @@
+{
+  "id": "adaptive-question-generator",
+  "type": "edtech_pedagogy",
+  "title": "基于布鲁姆认知分层的自适应平行变式题生成技能",
+  "region": "Adaptive Learning",
+  "subject": "Pedagogy",
+  "hardware_node": "seoul-m4-director",
+  "description": "输入知识点与目标难度（0.1–0.99），基于布鲁姆认知模型（记忆/理解/应用/分析）生成平行变式题。",
+  "path": "skills/edtech-pedagogy-100/adaptive-question-generator"
+}

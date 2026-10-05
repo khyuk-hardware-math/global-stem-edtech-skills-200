@@ -1,0 +1,10 @@
+{
+  "id": "multimodal-handwriting-ocr-corrector",
+  "type": "edtech_pedagogy",
+  "title": "学生手写草稿公式识别与分歧点推演逆推技能",
+  "region": "Handwriting OCR",
+  "subject": "AI Vision",
+  "hardware_node": "seoul-m4-director / gpu-cuda-node",
+  "description": "识别学生手写数学公式与草稿涂改痕迹，恢复原始推导逻辑并标注演算分歧点。",
+  "path": "skills/edtech-pedagogy-100/multimodal-handwriting-ocr-corrector"
+}

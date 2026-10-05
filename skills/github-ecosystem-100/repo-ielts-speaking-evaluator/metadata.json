@@ -1,0 +1,11 @@
+{
+  "id": "repo-ielts-speaking-evaluator",
+  "type": "github_ecosystem",
+  "repo": "ielts-speaking-evaluator/speech-rater",
+  "title": "基于 Whisper 语音识别与声学特征分析的雅思口语流利度评分工具",
+  "tech_stack": "Python, Whisper, Librosa",
+  "domain": "IELTS Speaking",
+  "url": "https://github.com/ielts-speaking-evaluator/speech-rater",
+  "description": "基于 Whisper 语音识别与声学特征分析的雅思口语流利度评分工具",
+  "path": "skills/github-ecosystem-100/repo-ielts-speaking-evaluator"
+}

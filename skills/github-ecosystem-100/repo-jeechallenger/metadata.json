@@ -1,0 +1,11 @@
+{
+  "id": "repo-jeechallenger",
+  "type": "github_ecosystem",
+  "repo": "Samya-S/jeechallenger-app",
+  "title": "JEE 备考全功能 Web 应用，集成历年真题模拟与 AI 辅导",
+  "tech_stack": "React, Node.js",
+  "domain": "India JEE",
+  "url": "https://github.com/Samya-S/jeechallenger-app",
+  "description": "JEE 备考全功能 Web 应用，集成历年真题模拟与 AI 辅导",
+  "path": "skills/github-ecosystem-100/repo-jeechallenger"
+}

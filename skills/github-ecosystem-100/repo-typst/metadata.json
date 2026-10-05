@@ -1,0 +1,11 @@
+{
+  "id": "repo-typst",
+  "type": "github_ecosystem",
+  "repo": "typst/typst",
+  "title": "现代化可编程排版引擎，编译速度比 LaTeX 快百倍的考卷排版神器",
+  "tech_stack": "Rust, C++",
+  "domain": "Modern Typesetting",
+  "url": "https://github.com/typst/typst",
+  "description": "现代化可编程排版引擎，编译速度比 LaTeX 快百倍的考卷排版神器",
+  "path": "skills/github-ecosystem-100/repo-typst"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "toefl-reading-sentence-simplification",
+  "type": "edtech_pedagogy",
+  "title": "托福阅读 40+ 词学术长难句主干抽离与从句修剪技能",
+  "region": "TOEFL Reading",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "抓取 40+ 词复合长难句的主干谓语动词与因果/让步逻辑，剔除从句修饰成分还原核心句意。",
+  "path": "skills/edtech-pedagogy-100/toefl-reading-sentence-simplification"
+}

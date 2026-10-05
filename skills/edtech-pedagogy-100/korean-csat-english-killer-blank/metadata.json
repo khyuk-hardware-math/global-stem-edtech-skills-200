@@ -1,0 +1,10 @@
+{
+  "id": "korean-csat-english-killer-blank",
+  "type": "edtech_pedagogy",
+  "title": "韩国修能 英语 31-34 题高抽象哲学与认知科学空缺填词技能",
+  "region": "Korea CSAT",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "针对修能英语臭名昭著的高抽象哲学/认知科学阅读挖空题，拆解句式逻辑对抗反转结构。",
+  "path": "skills/edtech-pedagogy-100/korean-csat-english-killer-blank"
+}

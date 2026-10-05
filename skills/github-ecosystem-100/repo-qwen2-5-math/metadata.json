@@ -1,0 +1,11 @@
+{
+  "id": "repo-qwen2-5-math",
+  "type": "github_ecosystem",
+  "repo": "QwenLM/Qwen2.5-Math",
+  "title": "阿里通义开源的全球顶尖数学大模型基座，在高考与竞赛上表现优异",
+  "tech_stack": "Python, PyTorch",
+  "domain": "Math Foundation LLM",
+  "url": "https://github.com/QwenLM/Qwen2.5-Math",
+  "description": "阿里通义开源的全球顶尖数学大模型基座，在高考与竞赛上表现优异",
+  "path": "skills/github-ecosystem-100/repo-qwen2-5-math"
+}

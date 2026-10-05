@@ -1,0 +1,11 @@
+{
+  "id": "repo-toefl-integrated-writing-eval",
+  "type": "github_ecosystem",
+  "repo": "toefl-integrated-writing-evaluator/nlp",
+  "title": "对比阅读文本与讲座音频听写稿的综合写作论据反驳检查器",
+  "tech_stack": "Python, spaCy",
+  "domain": "TOEFL Writing",
+  "url": "https://github.com/toefl-integrated-writing-evaluator/nlp",
+  "description": "对比阅读文本与讲座音频听写稿的综合写作论据反驳检查器",
+  "path": "skills/github-ecosystem-100/repo-toefl-integrated-writing-eval"
+}

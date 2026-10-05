@@ -1,0 +1,10 @@
+{
+  "id": "ielts-listening-audio-spelling-guard",
+  "type": "edtech_pedagogy",
+  "title": "雅思听力生僻专有名词拼写与单复数弱读连读质检技能",
+  "region": "IELTS Listening",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "强化地址、日期、人名字母拼读敏锐度，严抓名词单复数词尾与连读弱读音变失误。",
+  "path": "skills/edtech-pedagogy-100/ielts-listening-audio-spelling-guard"
+}

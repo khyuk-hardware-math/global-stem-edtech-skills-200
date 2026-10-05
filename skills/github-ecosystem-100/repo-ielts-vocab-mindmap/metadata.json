@@ -1,0 +1,11 @@
+{
+  "id": "repo-ielts-vocab-mindmap",
+  "type": "github_ecosystem",
+  "repo": "ielts-vocabulary-mindmap-visualizer/d3",
+  "title": "雅思写作常考 10 大社会话题（环境/科技/教育/犯罪）词汇逻辑脑图",
+  "tech_stack": "JavaScript, D3.js",
+  "domain": "IELTS Vocab",
+  "url": "https://github.com/ielts-vocabulary-mindmap-visualizer/d3",
+  "description": "雅思写作常考 10 大社会话题（环境/科技/教育/犯罪）词汇逻辑脑图",
+  "path": "skills/github-ecosystem-100/repo-ielts-vocab-mindmap"
+}

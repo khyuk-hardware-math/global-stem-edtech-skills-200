@@ -1,0 +1,10 @@
+{
+  "id": "kyodai-math-creative-geometry",
+  "type": "edtech_pedagogy",
+  "title": "京都大学二次试验 非套路几何猜想与数学归纳法推演技能",
+  "region": "Japan Kyodai",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "训练京都大学推崇的非套路灵动思维：反证法、数学归纳法、平面几何纯几何切入。",
+  "path": "skills/edtech-pedagogy-100/kyodai-math-creative-geometry"
+}

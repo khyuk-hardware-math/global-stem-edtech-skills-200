@@ -1,0 +1,11 @@
+{
+  "id": "repo-deepseek-math",
+  "type": "github_ecosystem",
+  "repo": "deepseek-ai/DeepSeek-Math",
+  "title": "深度求索开源的数学专精模型，无需工具调用纯逻辑推导达国际一流",
+  "tech_stack": "Python, PyTorch",
+  "domain": "Math Reasoning",
+  "url": "https://github.com/deepseek-ai/DeepSeek-Math",
+  "description": "深度求索开源的数学专精模型，无需工具调用纯逻辑推导达国际一流",
+  "path": "skills/github-ecosystem-100/repo-deepseek-math"
+}

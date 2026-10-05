@@ -1,0 +1,11 @@
+{
+  "id": "repo-pyromaths",
+  "type": "github_ecosystem",
+  "repo": "pyromaths/pyromaths",
+  "title": "按法国大纲自动生成带超详细步骤解答的 LaTeX/PDF 试卷",
+  "tech_stack": "Python, PyQt, LaTeX",
+  "domain": "France Bac",
+  "url": "https://github.com/pyromaths/pyromaths",
+  "description": "按法国大纲自动生成带超详细步骤解答的 LaTeX/PDF 试卷",
+  "path": "skills/github-ecosystem-100/repo-pyromaths"
+}

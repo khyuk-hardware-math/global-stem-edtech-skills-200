@@ -1,0 +1,10 @@
+{
+  "id": "sesamath-pedagogy-scaffolding",
+  "type": "edtech_pedagogy",
+  "title": "法国开源教材 Sésamath 协作式阶梯教学引导技能",
+  "region": "France K-12",
+  "subject": "Pedagogy",
+  "hardware_node": "seoul-m4-director",
+  "description": "适配法国主流开源数学教材 Sésamath 的阶梯式教学逻辑，提供从直观感知到公理化抽象的引导支架。",
+  "path": "skills/edtech-pedagogy-100/sesamath-pedagogy-scaffolding"
+}

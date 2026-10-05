@@ -1,0 +1,10 @@
+{
+  "id": "kyotsu-test-math-1a-speed",
+  "type": "edtech_pedagogy",
+  "title": "日本大学入学共通测试 数学Ⅰ・A 填空限速计算突破技能",
+  "region": "Japan Common Test",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "专攻填空框限速计算：数与式、二次函数、图形与计量、整除性质与排列组合快速填格。",
+  "path": "skills/edtech-pedagogy-100/kyotsu-test-math-1a-speed"
+}

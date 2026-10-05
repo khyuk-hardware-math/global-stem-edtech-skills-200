@@ -1,0 +1,10 @@
+{
+  "id": "circuitikz-schematic-generator",
+  "type": "edtech_pedagogy",
+  "title": "标准运放/滤波网络/三极管放大电路矢量图生成技能",
+  "region": "Circuit Schematics",
+  "subject": "Electronics",
+  "hardware_node": "seoul-m4-director",
+  "description": "规范化生成运放比较器、RLC 滤波电路、三极管放大电路及数字逻辑门电路矢量图。",
+  "path": "skills/edtech-pedagogy-100/circuitikz-schematic-generator"
+}

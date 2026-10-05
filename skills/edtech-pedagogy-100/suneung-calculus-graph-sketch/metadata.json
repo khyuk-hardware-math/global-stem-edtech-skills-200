@@ -1,0 +1,10 @@
+{
+  "id": "suneung-calculus-graph-sketch",
+  "type": "edtech_pedagogy",
+  "title": "韩国修能 多项式切线族对称性与 1:2:sqrt(3) 比例速解技能",
+  "region": "Korea CSAT",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "熟练掌握三次/四次多项式切线族、对称中心与拐点比例性质（1:2:sqrt(3) 切割比速解法则）。",
+  "path": "skills/edtech-pedagogy-100/suneung-calculus-graph-sketch"
+}

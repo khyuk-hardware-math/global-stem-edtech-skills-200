@@ -1,0 +1,11 @@
+{
+  "id": "repo-amc-olympiad-tex",
+  "type": "github_ecosystem",
+  "repo": "amc-olympiad-tex-archive/amc-aime",
+  "title": "历年全美 AMC 8/10/12 与 AIME 完整试题解答高精度 LaTeX 源文件",
+  "tech_stack": "LaTeX, TikZ",
+  "domain": "USA Olympiad",
+  "url": "https://github.com/amc-olympiad-tex-archive/amc-aime",
+  "description": "历年全美 AMC 8/10/12 与 AIME 完整试题解答高精度 LaTeX 源文件",
+  "path": "skills/github-ecosystem-100/repo-amc-olympiad-tex"
+}

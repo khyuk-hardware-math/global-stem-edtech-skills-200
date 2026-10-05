@@ -1,0 +1,11 @@
+{
+  "id": "repo-irem-ressources-maths",
+  "type": "github_ecosystem",
+  "repo": "irem-univ/irem-ressources-maths",
+  "title": "法国高等数学教育研究院 (IREM) 开放课程与教研案例集",
+  "tech_stack": "TeX, Markdown",
+  "domain": "France Research",
+  "url": "https://github.com/irem-univ/irem-ressources-maths",
+  "description": "法国高等数学教育研究院 (IREM) 开放课程与教研案例集",
+  "path": "skills/github-ecosystem-100/repo-irem-ressources-maths"
+}

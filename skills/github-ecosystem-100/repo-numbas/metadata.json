@@ -1,0 +1,11 @@
+{
+  "id": "repo-numbas",
+  "type": "github_ecosystem",
+  "repo": "numbas/Numbas",
+  "title": "英国纽卡斯尔大学开发的开源富媒体数学在线测评系统",
+  "tech_stack": "JavaScript, Python",
+  "domain": "UK GCSE/A-Level",
+  "url": "https://github.com/numbas/Numbas",
+  "description": "英国纽卡斯尔大学开发的开源富媒体数学在线测评系统",
+  "path": "skills/github-ecosystem-100/repo-numbas"
+}

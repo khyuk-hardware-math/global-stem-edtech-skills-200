@@ -1,0 +1,11 @@
+{
+  "id": "repo-gsm8k",
+  "type": "github_ecosystem",
+  "repo": "openai/grade-school-math",
+  "title": "OpenAI 发布的经典小学与初中多步骤数理应用题推理数据集",
+  "tech_stack": "Python, JSONL",
+  "domain": "Reasoning Dataset",
+  "url": "https://github.com/openai/grade-school-math",
+  "description": "OpenAI 发布的经典小学与初中多步骤数理应用题推理数据集",
+  "path": "skills/github-ecosystem-100/repo-gsm8k"
+}

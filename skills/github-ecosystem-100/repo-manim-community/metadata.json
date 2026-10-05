@@ -1,0 +1,11 @@
+{
+  "id": "repo-manim-community",
+  "type": "github_ecosystem",
+  "repo": "ManimCommunity/manim",
+  "title": "全球著名的数理教学动画引擎社区维护版，数学物理动态视频标杆",
+  "tech_stack": "Python, FFmpeg, Cairo",
+  "domain": "STEM Animation",
+  "url": "https://github.com/ManimCommunity/manim",
+  "description": "全球著名的数理教学动画引擎社区维护版，数学物理动态视频标杆",
+  "path": "skills/github-ecosystem-100/repo-manim-community"
+}

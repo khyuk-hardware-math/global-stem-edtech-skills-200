@@ -1,0 +1,11 @@
+{
+  "id": "repo-highschool-math-genkuroki",
+  "type": "github_ecosystem",
+  "repo": "genkuroki/HighSchoolMath",
+  "title": "东北大学黑木玄教授整理的日本高校数学与大学入试深度解析笔记",
+  "tech_stack": "TeX, Jupyter, Julia",
+  "domain": "Japan Math",
+  "url": "https://github.com/genkuroki/HighSchoolMath",
+  "description": "东北大学黑木玄教授整理的日本高校数学与大学入试深度解析笔记",
+  "path": "skills/github-ecosystem-100/repo-highschool-math-genkuroki"
+}

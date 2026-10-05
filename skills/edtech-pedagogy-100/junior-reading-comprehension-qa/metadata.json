@@ -1,0 +1,10 @@
+{
+  "id": "junior-reading-comprehension-qa",
+  "type": "edtech_pedagogy",
+  "title": "青少儿分级读物 (Oxford/RAZ) 5W1H 深度批判性阅读启发技能",
+  "region": "Junior Reading",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "适配牛津树、RAZ、哈利波特初阶读物，通过 5W1H 问答培养高阶批判性阅读 (Critical Thinking)。",
+  "path": "skills/edtech-pedagogy-100/junior-reading-comprehension-qa"
+}

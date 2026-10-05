@@ -1,0 +1,11 @@
+{
+  "id": "repo-korean-sat-llm-leaderboard",
+  "type": "github_ecosystem",
+  "repo": "Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard",
+  "title": "使用韩国高考修能题目对前沿 LLM 推理能力测评权威榜单",
+  "tech_stack": "Python, HuggingFace",
+  "domain": "Korea CSAT",
+  "url": "https://github.com/Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard",
+  "description": "使用韩国高考修能题目对前沿 LLM 推理能力测评权威榜单",
+  "path": "skills/github-ecosystem-100/repo-korean-sat-llm-leaderboard"
+}

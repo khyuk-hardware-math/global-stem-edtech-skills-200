@@ -1,0 +1,10 @@
+{
+  "id": "ielts-writing-task1-data-narrator",
+  "type": "edtech_pedagogy",
+  "title": "雅思学术类 Task 1 图表折线/柱状/饼图/流程图高分客观叙述技能",
+  "region": "IELTS Writing",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "熟练总结折线/柱状/饼图/表格数据趋势（Overview），生动描述地图变迁与流程图因果链。",
+  "path": "skills/edtech-pedagogy-100/ielts-writing-task1-data-narrator"
+}

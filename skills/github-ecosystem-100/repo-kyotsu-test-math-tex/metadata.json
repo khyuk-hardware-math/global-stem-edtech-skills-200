@@ -1,0 +1,11 @@
+{
+  "id": "repo-kyotsu-test-math-tex",
+  "type": "github_ecosystem",
+  "repo": "kyotsu-test-archive/math-papers-tex",
+  "title": "日本历年大学入试中心试验与共通测试数学真题 LaTeX 数字化归档",
+  "tech_stack": "LaTeX, Shell",
+  "domain": "Japan Common Test",
+  "url": "https://github.com/kyotsu-test-archive/math-papers-tex",
+  "description": "日本历年大学入试中心试验与共通测试数学真题 LaTeX 数字化归档",
+  "path": "skills/github-ecosystem-100/repo-kyotsu-test-math-tex"
+}

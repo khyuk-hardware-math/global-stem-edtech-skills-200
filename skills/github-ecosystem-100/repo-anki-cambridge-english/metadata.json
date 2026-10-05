@@ -1,0 +1,11 @@
+{
+  "id": "repo-anki-cambridge-english",
+  "type": "github_ecosystem",
+  "repo": "anki-cambridge-english/a2-b1-deck",
+  "title": "针对 KET/PET 考生的 Anki 记忆卡片组，配真人发音与例句",
+  "tech_stack": "Python, Anki Deck",
+  "domain": "Cambridge English",
+  "url": "https://github.com/anki-cambridge-english/a2-b1-deck",
+  "description": "针对 KET/PET 考生的 Anki 记忆卡片组，配真人发音与例句",
+  "path": "skills/github-ecosystem-100/repo-anki-cambridge-english"
+}

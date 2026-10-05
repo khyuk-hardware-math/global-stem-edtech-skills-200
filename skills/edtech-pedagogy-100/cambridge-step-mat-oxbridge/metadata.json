@@ -1,0 +1,10 @@
+{
+  "id": "cambridge-step-mat-oxbridge",
+  "type": "edtech_pedagogy",
+  "title": "剑桥大学与牛津大学数学入学试 (STEP 2/3, MAT) 深度推演技能",
+  "region": "UK Oxbridge",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "培养非常规灵感与多步代数变形能力，应对 STEP 2/3 的高难度开放式数论与积分问题。",
+  "path": "skills/edtech-pedagogy-100/cambridge-step-mat-oxbridge"
+}

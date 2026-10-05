@@ -1,0 +1,11 @@
+{
+  "id": "repo-ib-math-ia-templates",
+  "type": "github_ecosystem",
+  "repo": "ib-math-ia-templates/exploration-guide",
+  "title": "国际文凭 IB DP 数学 HL 内部评估 (IA) 格式标准与范文模板",
+  "tech_stack": "LaTeX, Markdown",
+  "domain": "IB DP Math",
+  "url": "https://github.com/ib-math-ia-templates/exploration-guide",
+  "description": "国际文凭 IB DP 数学 HL 内部评估 (IA) 格式标准与范文模板",
+  "path": "skills/github-ecosystem-100/repo-ib-math-ia-templates"
+}

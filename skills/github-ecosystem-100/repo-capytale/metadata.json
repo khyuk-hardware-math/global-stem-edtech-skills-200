@@ -1,0 +1,11 @@
+{
+  "id": "repo-capytale",
+  "type": "github_ecosystem",
+  "repo": "education-nationale/capytale",
+  "title": "法国教育部全国部署的初高中编程与数理在线 Notebook",
+  "tech_stack": "Python, Jupyter, Vue.js",
+  "domain": "France Official",
+  "url": "https://github.com/education-nationale/capytale",
+  "description": "法国教育部全国部署的初高中编程与数理在线 Notebook",
+  "path": "skills/github-ecosystem-100/repo-capytale"
+}

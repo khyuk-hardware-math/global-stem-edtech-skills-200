@@ -1,0 +1,11 @@
+{
+  "id": "repo-esl-interactive-flashcards",
+  "type": "github_ecosystem",
+  "repo": "esl-interactive-flashcards/web-app",
+  "title": "面向青少儿英语教学的高交互 Web 闪卡游戏（翻转/配对/听辨）",
+  "tech_stack": "Vue.js, TailwindCSS",
+  "domain": "ESL Flashcards",
+  "url": "https://github.com/esl-interactive-flashcards/web-app",
+  "description": "面向青少儿英语教学的高交互 Web 闪卡游戏（翻转/配对/听辨）",
+  "path": "skills/github-ecosystem-100/repo-esl-interactive-flashcards"
+}

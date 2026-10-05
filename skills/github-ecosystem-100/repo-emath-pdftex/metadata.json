@@ -1,0 +1,11 @@
+{
+  "id": "repo-emath-pdftex",
+  "type": "github_ecosystem",
+  "repo": "takotakot/emath-pdftex",
+  "title": "日本高校数学教师广泛使用的 emath LaTeX 考卷宏包",
+  "tech_stack": "TeX, Perl, PostScript",
+  "domain": "Japan Math",
+  "url": "https://github.com/takotakot/emath-pdftex",
+  "description": "日本高校数学教师广泛使用的 emath LaTeX 考卷宏包",
+  "path": "skills/github-ecosystem-100/repo-emath-pdftex"
+}

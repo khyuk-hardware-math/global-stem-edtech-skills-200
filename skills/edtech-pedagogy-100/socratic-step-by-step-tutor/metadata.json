@@ -1,0 +1,10 @@
+{
+  "id": "socratic-step-by-step-tutor",
+  "type": "edtech_pedagogy",
+  "title": "非侵入苏格拉底步进式启发辅导与思维防直接透题技能",
+  "region": "Socratic Tutor",
+  "subject": "Pedagogy",
+  "hardware_node": "seoul-m4-director",
+  "description": "坚决不直接给出最终答案，通过步进式提问引导学生自我发现关键公式与几何辅助线。",
+  "path": "skills/edtech-pedagogy-100/socratic-step-by-step-tutor"
+}

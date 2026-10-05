@@ -1,0 +1,11 @@
+{
+  "id": "repo-toefl-tpo-crawler",
+  "type": "github_ecosystem",
+  "repo": "toefl-tpo-crawler/data-extractor",
+  "title": "自动化抓取与解析托福官方全真模拟题 (TPO 1-75) 音频阅读题目工具",
+  "tech_stack": "Python, Requests",
+  "domain": "TOEFL TPO",
+  "url": "https://github.com/toefl-tpo-crawler/data-extractor",
+  "description": "自动化抓取与解析托福官方全真模拟题 (TPO 1-75) 音频阅读题目工具",
+  "path": "skills/github-ecosystem-100/repo-toefl-tpo-crawler"
+}

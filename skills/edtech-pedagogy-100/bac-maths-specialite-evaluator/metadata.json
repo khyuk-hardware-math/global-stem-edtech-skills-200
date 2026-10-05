@@ -1,0 +1,10 @@
+{
+  "id": "bac-maths-specialite-evaluator",
+  "type": "edtech_pedagogy",
+  "title": "法国 Baccalauréat Spécialité 数学导数与空间向量推导技能",
+  "region": "France Bac",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "针对 Terminale 导数分析、空间几何立体向量、离散概率分布（二项分布）提供全流程严谨法语推导。",
+  "path": "skills/edtech-pedagogy-100/bac-maths-specialite-evaluator"
+}

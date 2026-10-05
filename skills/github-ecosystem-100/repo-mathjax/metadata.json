@@ -1,0 +1,11 @@
+{
+  "id": "repo-mathjax",
+  "type": "github_ecosystem",
+  "repo": "mathjax/MathJax",
+  "title": "跨浏览器的工业级全功能数学排版显示引擎，支持 MathML、LaTeX",
+  "tech_stack": "JavaScript",
+  "domain": "Math Typesetting",
+  "url": "https://github.com/mathjax/MathJax",
+  "description": "跨浏览器的工业级全功能数学排版显示引擎，支持 MathML、LaTeX",
+  "path": "skills/github-ecosystem-100/repo-mathjax"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "toefl-integrated-writing-synthesis",
+  "type": "edtech_pedagogy",
+  "title": "托福综合写作阅读与讲座音频 3 点反驳对立矩阵提取技能",
+  "region": "TOEFL Writing",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "构建阅读与听力讲座之间的 3 点逐一反驳对立矩阵，精准使用转折句式记录教授反例。",
+  "path": "skills/edtech-pedagogy-100/toefl-integrated-writing-synthesis"
+}

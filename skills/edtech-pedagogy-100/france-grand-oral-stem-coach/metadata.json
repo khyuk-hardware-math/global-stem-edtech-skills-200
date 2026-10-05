@@ -1,0 +1,10 @@
+{
+  "id": "france-grand-oral-stem-coach",
+  "type": "edtech_pedagogy",
+  "title": "法国高考大口试 (Grand Oral) 数理科学应用与辩护导师技能",
+  "region": "France Bac",
+  "subject": "Oral STEM",
+  "hardware_node": "seoul-m4-director",
+  "description": "训练学生用严谨法语阐述数理实际应用（如微积分在生物建模中的运用），优化 20 分钟口语答辩逻辑。",
+  "path": "skills/edtech-pedagogy-100/france-grand-oral-stem-coach"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "repo-open-toefl-corpus",
+  "type": "github_ecosystem",
+  "repo": "open-toefl-corpus/transcripts",
+  "title": "收录托福历年学术讲座（天文/地质/考古/生物）真实文本与生词释义",
+  "tech_stack": "JSON, Markdown",
+  "domain": "TOEFL Corpus",
+  "url": "https://github.com/open-toefl-corpus/transcripts",
+  "description": "收录托福历年学术讲座（天文/地质/考古/生物）真实文本与生词释义",
+  "path": "skills/github-ecosystem-100/repo-open-toefl-corpus"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "suneung-probability-statistics-case",
+  "type": "edtech_pedagogy",
+  "title": "韩国修能 概率统计条件概率乘法定理与独立试验分类技能",
+  "region": "Korea CSAT",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "强化独立重复试验、条件概率乘法定理及二项分布正态近似的严密互斥分类讨论。",
+  "path": "skills/edtech-pedagogy-100/suneung-probability-statistics-case"
+}

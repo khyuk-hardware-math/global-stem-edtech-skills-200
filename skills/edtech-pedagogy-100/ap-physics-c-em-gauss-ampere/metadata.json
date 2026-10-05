@@ -1,0 +1,10 @@
+{
+  "id": "ap-physics-c-em-gauss-ampere",
+  "type": "edtech_pedagogy",
+  "title": "美国 AP 物理 C 高斯定理与微积分麦克斯韦方程组入门技能",
+  "region": "USA AP",
+  "subject": "Physics",
+  "hardware_node": "seoul-m4-director",
+  "description": "运用微分微元法推导高斯定理电场强度、安培环路定理磁场及 LC/RLC 阻尼振荡微分方程。",
+  "path": "skills/edtech-pedagogy-100/ap-physics-c-em-gauss-ampere"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "repo-pet-sentence-rewriter",
+  "type": "github_ecosystem",
+  "repo": "pet-sentence-rewriter/paraphrase-ai",
+  "title": "PET 核心考点同义句转换自动训练与即时反馈纠错工具",
+  "tech_stack": "Python, Transformers",
+  "domain": "Cambridge PET",
+  "url": "https://github.com/pet-sentence-rewriter/paraphrase-ai",
+  "description": "PET 核心考点同义句转换自动训练与即时反馈纠错工具",
+  "path": "skills/github-ecosystem-100/repo-pet-sentence-rewriter"
+}

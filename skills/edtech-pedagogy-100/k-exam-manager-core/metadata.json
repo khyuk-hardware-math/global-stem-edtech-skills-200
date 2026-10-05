@@ -1,0 +1,10 @@
+{
+  "id": "k-exam-manager-core",
+  "type": "edtech_pedagogy",
+  "title": "字节级试题切片、相似度聚类与多维标签检索总控技能",
+  "region": "Question Bank",
+  "subject": "Engine",
+  "hardware_node": "seoul-m4-director / storage-db-node",
+  "description": "按知识点、难度、题型在字节级快速切片、索引、合并与检索历年数理真题。",
+  "path": "skills/edtech-pedagogy-100/k-exam-manager-core"
+}

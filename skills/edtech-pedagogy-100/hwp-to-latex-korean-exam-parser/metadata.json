@@ -1,0 +1,10 @@
+{
+  "id": "hwp-to-latex-korean-exam-parser",
+  "type": "edtech_pedagogy",
+  "title": "韩国特有韩软 HWP 考卷二进制排版解析与结构化 LaTeX 转换技能",
+  "region": "Korea Tooling",
+  "subject": "Parser",
+  "hardware_node": "seoul-m4-director",
+  "description": "专门解析韩国独有的韩软 HWP 考卷二进制排版，将其高保真抽离为结构化 LaTeX/JSON 题库。",
+  "path": "skills/edtech-pedagogy-100/hwp-to-latex-korean-exam-parser"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "japan-chemistry-structural-deduction",
+  "type": "edtech_pedagogy",
+  "title": "日本高考化学 芳香族与油脂同分异构体网络逆推技能",
+  "region": "Japan Chemistry",
+  "subject": "Chemistry",
+  "hardware_node": "seoul-m4-director",
+  "description": "专攻大学二次化学中高难度的芳香族与油脂同分异构体结构推断（反应流程链逆推）。",
+  "path": "skills/edtech-pedagogy-100/japan-chemistry-structural-deduction"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ielts-reading-true-false-not-given",
+  "type": "edtech_pedagogy",
+  "title": "雅思阅读 True/False/Not Given 逻辑边界与反义反驳鉴别技能",
+  "region": "IELTS Reading",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "厘清 False（与原文明确矛盾）与 Not Given（原文未提及或信息不足）的逻辑边界。",
+  "path": "skills/edtech-pedagogy-100/ielts-reading-true-false-not-given"
+}

@@ -1,0 +1,37 @@
+---
+name: repo-metamath
+description: "metamath/metamath-exe - 数十年历史的纯文本形式化严谨逻辑与数学系统，定理检验毫无漏洞"
+category: github_ecosystem
+repo: "metamath/metamath-exe"
+tech_stack: "C, Assembly"
+domain: "Proof Verifier"
+url: "https://github.com/metamath/metamath-exe"
+version: 1.0.0
+---
+
+# repo-metamath
+
+> **GitHub 开源生态集成**: [metamath/metamath-exe](https://github.com/metamath/metamath-exe)
+> 技术栈: `C, Assembly` | 业务领域: `Proof Verifier`
+
+## 1. 仓库定位与核心资产
+数十年历史的纯文本形式化严谨逻辑与数学系统，定理检验毫无漏洞
+
+- **官方仓库地址**: [https://github.com/metamath/metamath-exe](https://github.com/metamath/metamath-exe)
+- **技术选型与实现**: `C, Assembly`
+
+## 2. 真实接入与执行契约 (Integration & Execution Contract)
+- **克隆与环境预热**:
+  ```bash
+  git clone --depth 1 https://github.com/metamath/metamath-exe.git
+  ```
+- **执行封装器接口**:
+  - 该技能作为 K-skills router 的专科子工具，提供原生 Python 桥接，可直接加载题库数据、解析真题格式或调用求解器引擎。
+- **算力节点编排**:
+  - 运算型/模型型：派发至 `seoul-m4-director` (M4 Pro) 或 `gpu-cuda-node` (RTX 5070)
+  - 存储与数据库：索引入 `storage-db-node` (4TB SSD)
+
+## 3. CLI 调用指令
+```bash
+python3 -m core.dispatch_cli --skill repo-metamath --inspect-upstream
+```

@@ -1,0 +1,10 @@
+{
+  "id": "ielts-mock-exam-band-score-calculator",
+  "type": "edtech_pedagogy",
+  "title": "雅思考试 4 科成绩加权核算与 0.5 步进弱项诊断技能",
+  "region": "IELTS Assessment",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "依据官方折算表自动核算 4 个 0.5 步进小分，按四舍五入规则生成总成绩单并输出弱项清单。",
+  "path": "skills/edtech-pedagogy-100/ielts-mock-exam-band-score-calculator"
+}

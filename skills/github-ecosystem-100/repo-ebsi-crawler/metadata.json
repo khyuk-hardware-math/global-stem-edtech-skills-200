@@ -1,0 +1,11 @@
+{
+  "id": "repo-ebsi-crawler",
+  "type": "github_ecosystem",
+  "repo": "ebsi-crawler/lecture-qna-dataset",
+  "title": "抓取与分析韩国 EBS 官方教育电视台免费修能讲座与 Q&A 数据爬虫",
+  "tech_stack": "Python, Scrapy",
+  "domain": "Korea EBS",
+  "url": "https://github.com/ebsi-crawler/lecture-qna-dataset",
+  "description": "抓取与分析韩国 EBS 官方教育电视台免费修能讲座与 Q&A 数据爬虫",
+  "path": "skills/github-ecosystem-100/repo-ebsi-crawler"
+}

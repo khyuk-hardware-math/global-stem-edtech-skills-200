@@ -1,0 +1,26 @@
+stages:
+  - lint
+  - test
+  - catalog-validate
+
+variables:
+  PYTHONUNBUFFERED: "1"
+
+flake8-lint:
+  stage: lint
+  image: python:3.11-slim
+  script:
+    - pip install flake8
+    - flake8 core scripts tests --max-line-length=140 --ignore=E501,W503,E402 || true
+
+integrity-tests:
+  stage: test
+  image: python:3.11-slim
+  script:
+    - python -m unittest discover -s tests -p "test_*.py"
+
+catalog-validation:
+  stage: catalog-validate
+  image: python:3.11-slim
+  script:
+    - python -c "import json; data=json.load(open('core/catalog.json')); assert data['total_skills'] == 200; print('Catalog valid with 200 skills!')"

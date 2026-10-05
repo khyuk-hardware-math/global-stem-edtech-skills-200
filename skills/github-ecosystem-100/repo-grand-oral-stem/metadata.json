@@ -1,0 +1,11 @@
+{
+  "id": "repo-grand-oral-stem",
+  "type": "github_ecosystem",
+  "repo": "epreuves-orales-bac/grand-oral-stem",
+  "title": "针对法国高考大口试 (Grand Oral) 数理方向的选题库与答辩模板",
+  "tech_stack": "Markdown, PDF",
+  "domain": "France Bac",
+  "url": "https://github.com/epreuves-orales-bac/grand-oral-stem",
+  "description": "针对法国高考大口试 (Grand Oral) 数理方向的选题库与答辩模板",
+  "path": "skills/github-ecosystem-100/repo-grand-oral-stem"
+}

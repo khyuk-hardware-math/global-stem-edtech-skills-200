@@ -1,0 +1,10 @@
+{
+  "id": "geogebra-ggb-scripting-master",
+  "type": "edtech_pedagogy",
+  "title": "GeoGebra 动态几何、二次曲线轨迹与 3D 多面体投影构建技能",
+  "region": "Interactive Math",
+  "subject": "Geometry",
+  "hardware_node": "seoul-m4-director",
+  "description": "自动化编写 GeoGebra 指令，生成滑块联动参数图形、圆锥曲线轨迹与三维多面体投影。",
+  "path": "skills/edtech-pedagogy-100/geogebra-ggb-scripting-master"
+}

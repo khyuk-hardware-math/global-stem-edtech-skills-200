@@ -1,0 +1,10 @@
+{
+  "id": "toefl-listening-conversation-pragmatics",
+  "type": "edtech_pedagogy",
+  "title": "托福听力校园对话潜台词与教授态度题定位技能",
+  "region": "TOEFL Listening",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "捕捉教授或学生的言外之意（Implication）与情感色彩（怀疑、赞同、委婉拒绝、反讽）。",
+  "path": "skills/edtech-pedagogy-100/toefl-listening-conversation-pragmatics"
+}

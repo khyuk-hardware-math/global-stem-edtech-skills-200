@@ -1,0 +1,10 @@
+{
+  "id": "ielts-writing-task2-band9-rubric",
+  "type": "edtech_pedagogy",
+  "title": "雅思写作 Task 2 官方 4 维评分标准 (TR/CC/LR/GRA) 满分对标技能",
+  "region": "IELTS Writing",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "严格对照 4 维量表（TR, CC, LR, GRA）诊断，杜绝模版套话，强化论证深度与连贯衔接。",
+  "path": "skills/edtech-pedagogy-100/ielts-writing-task2-band9-rubric"
+}

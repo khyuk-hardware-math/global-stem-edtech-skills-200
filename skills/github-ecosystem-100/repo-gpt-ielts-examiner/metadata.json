@@ -1,0 +1,11 @@
+{
+  "id": "repo-gpt-ielts-examiner",
+  "type": "github_ecosystem",
+  "repo": "m-a-r-i-b/gpt-ielts-essay-examiner",
+  "title": "结合大模型将雅思写作拆分为任务完成、连贯性等四项的评阅器",
+  "tech_stack": "Python, OpenAI API",
+  "domain": "IELTS Writing",
+  "url": "https://github.com/m-a-r-i-b/gpt-ielts-essay-examiner",
+  "description": "结合大模型将雅思写作拆分为任务完成、连贯性等四项的评阅器",
+  "path": "skills/github-ecosystem-100/repo-gpt-ielts-examiner"
+}

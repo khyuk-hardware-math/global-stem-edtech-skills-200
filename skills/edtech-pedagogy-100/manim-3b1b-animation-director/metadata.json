@@ -1,0 +1,10 @@
+{
+  "id": "manim-3b1b-animation-director",
+  "type": "edtech_pedagogy",
+  "title": "3Blue1Brown 风格 Manim (Python) 高质感数理动画代码导演技能",
+  "region": "STEM Visualization",
+  "subject": "Media",
+  "hardware_node": "seoul-m4-director / gpu-cuda-node",
+  "description": "自动生成 Manim (Python) 脚本，渲染 3Blue1Brown 风格的微积分极限与线性变换可视化动画。",
+  "path": "skills/edtech-pedagogy-100/manim-3b1b-animation-director"
+}

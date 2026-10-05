@@ -1,0 +1,11 @@
+{
+  "id": "repo-suneung-killer-solver",
+  "type": "github_ecosystem",
+  "repo": "suneung-killer-solver/calculus-differential",
+  "title": "专门推演修能数学 22 题和 30 题多项式切线与极点分类模型",
+  "tech_stack": "Python, SymPy",
+  "domain": "Korea Math",
+  "url": "https://github.com/suneung-killer-solver/calculus-differential",
+  "description": "专门推演修能数学 22 题和 30 题多项式切线与极点分类模型",
+  "path": "skills/github-ecosystem-100/repo-suneung-killer-solver"
+}

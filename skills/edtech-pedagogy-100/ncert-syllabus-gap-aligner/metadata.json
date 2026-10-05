@@ -1,0 +1,10 @@
+{
+  "id": "ncert-syllabus-gap-aligner",
+  "type": "edtech_pedagogy",
+  "title": "印度普通高考 (Board Exam) 与 JEE 深度断层智能填补技能",
+  "region": "India CBSE/ICSE",
+  "subject": "Curriculum",
+  "hardware_node": "seoul-m4-director",
+  "description": "精准标定 CBSE/ICSE 普通高中教学大纲与 JEE Advanced 深度要求之间的知识断层，自动填补考纲盲区。",
+  "path": "skills/edtech-pedagogy-100/ncert-syllabus-gap-aligner"
+}

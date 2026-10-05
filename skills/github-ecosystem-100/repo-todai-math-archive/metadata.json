@@ -1,0 +1,11 @@
+{
+  "id": "repo-todai-math-archive",
+  "type": "github_ecosystem",
+  "repo": "todai-math-tex/archive-1960-2025",
+  "title": "收录东京大学半个世纪以来理科与文科数学入试真题的 TeX 整理项目",
+  "tech_stack": "LaTeX, BibTeX",
+  "domain": "Japan Todai",
+  "url": "https://github.com/todai-math-tex/archive-1960-2025",
+  "description": "收录东京大学半个世纪以来理科与文科数学入试真题的 TeX 整理项目",
+  "path": "skills/github-ecosystem-100/repo-todai-math-archive"
+}

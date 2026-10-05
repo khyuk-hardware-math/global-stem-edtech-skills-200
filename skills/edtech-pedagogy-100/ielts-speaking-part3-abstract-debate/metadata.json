@@ -1,0 +1,10 @@
+{
+  "id": "ielts-speaking-part3-abstract-debate",
+  "type": "edtech_pedagogy",
+  "title": "雅思口语 Part 3 社会议题抽象思辨 PEEL 论证模型演练技能",
+  "region": "IELTS Speaking",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "训练从个人体验上升到社会宏观视角的答题架构（PEEL 模型：Point, Explanation, Example, Link）。",
+  "path": "skills/edtech-pedagogy-100/ielts-speaking-part3-abstract-debate"
+}

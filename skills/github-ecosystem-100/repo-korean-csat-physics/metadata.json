@@ -1,0 +1,11 @@
+{
+  "id": "repo-korean-csat-physics",
+  "type": "github_ecosystem",
+  "repo": "korean-csat-physics-engine/core",
+  "title": "针对韩国修能物理选考电路网络与相对论大题的数值求解器",
+  "tech_stack": "Python, NumPy",
+  "domain": "Korea Physics",
+  "url": "https://github.com/korean-csat-physics-engine/core",
+  "description": "针对韩国修能物理选考电路网络与相对论大题的数值求解器",
+  "path": "skills/github-ecosystem-100/repo-korean-csat-physics"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ap-calculus-bc-series-taylor",
+  "type": "edtech_pedagogy",
+  "title": "美国 AP 微积分 BC 级数敛散性判别与泰勒拉格朗日余项技能",
+  "region": "USA AP",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "专攻级数收敛判别法（比值/积分/交错级数）与泰勒/麦克劳林级数余项拉格朗日误差上界。",
+  "path": "skills/edtech-pedagogy-100/ap-calculus-bc-series-taylor"
+}

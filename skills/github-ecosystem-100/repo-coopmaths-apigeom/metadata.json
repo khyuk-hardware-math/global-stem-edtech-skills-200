@@ -1,0 +1,11 @@
+{
+  "id": "repo-coopmaths-apigeom",
+  "type": "github_ecosystem",
+  "repo": "coopmaths/apiGeom",
+  "title": "CoopMaths 配套几何作图与交互引擎，支持网页动态拖拽点与线段",
+  "tech_stack": "TypeScript, Canvas",
+  "domain": "France Math",
+  "url": "https://github.com/coopmaths/apiGeom",
+  "description": "CoopMaths 配套几何作图与交互引擎，支持网页动态拖拽点与线段",
+  "path": "skills/github-ecosystem-100/repo-coopmaths-apigeom"
+}

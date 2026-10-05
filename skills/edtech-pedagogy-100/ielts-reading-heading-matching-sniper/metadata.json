@@ -1,0 +1,10 @@
+{
+  "id": "ielts-reading-heading-matching-sniper",
+  "type": "edtech_pedagogy",
+  "title": "雅思阅读段落小标题匹配与扫读 (Skimming) 核心论点锁定技能",
+  "region": "IELTS Reading",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "训练掠读（Skimming）首尾句提炼段落 Topic Sentence，绕过具体细节干扰，锁定主旨匹配。",
+  "path": "skills/edtech-pedagogy-100/ielts-reading-heading-matching-sniper"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cefr-ladder-progression-evaluator",
+  "type": "edtech_pedagogy",
+  "title": "欧洲共同语言框架 (CEFR A1->B1) 阅读难度与蓝思值梯级测定技能",
+  "region": "CEFR Ladder",
+  "subject": "Assessment",
+  "hardware_node": "seoul-m4-director",
+  "description": "精准评定青少儿阅读难度蓝思值 (Lexile) 与 CEFR (Pre-A1 -> A1 -> A2 -> B1)，生成阶梯书单。",
+  "path": "skills/edtech-pedagogy-100/cefr-ladder-progression-evaluator"
+}

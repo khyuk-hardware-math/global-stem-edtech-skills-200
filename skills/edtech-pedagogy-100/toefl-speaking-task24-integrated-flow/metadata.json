@@ -1,0 +1,10 @@
+{
+  "id": "toefl-speaking-task24-integrated-flow",
+  "type": "edtech_pedagogy",
+  "title": "托福综合口语 (Task 2-4) 讲座笔记时间轴重述与防停顿技能",
+  "region": "TOEFL Speaking",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "结构化记录校园公告与学术讲座要点，按时间进度条顺畅组织 60 秒逻辑复述，严控发音停顿。",
+  "path": "skills/edtech-pedagogy-100/toefl-speaking-task24-integrated-flow"
+}

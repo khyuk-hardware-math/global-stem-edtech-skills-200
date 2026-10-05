@@ -1,0 +1,11 @@
+{
+  "id": "repo-sesamath-j3p",
+  "type": "github_ecosystem",
+  "repo": "sesamath/j3p",
+  "title": "法国 Sésamath 出品的个性化数学练习自适应路径引擎",
+  "tech_stack": "JavaScript, HTML5, SVG",
+  "domain": "France K-12",
+  "url": "https://github.com/sesamath/j3p",
+  "description": "法国 Sésamath 出品的个性化数学练习自适应路径引擎",
+  "path": "skills/github-ecosystem-100/repo-sesamath-j3p"
+}

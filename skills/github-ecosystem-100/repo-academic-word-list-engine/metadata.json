@@ -1,0 +1,11 @@
+{
+  "id": "repo-academic-word-list-engine",
+  "type": "github_ecosystem",
+  "repo": "academic-word-list-awl-engine/core",
+  "title": "Averil Coxhead 学术词汇表 (AWL) 570 词族构词法衍生与测试套件",
+  "tech_stack": "Python, SQLite",
+  "domain": "Academic Vocab",
+  "url": "https://github.com/academic-word-list-awl-engine/core",
+  "description": "Averil Coxhead 学术词汇表 (AWL) 570 词族构词法衍生与测试套件",
+  "path": "skills/github-ecosystem-100/repo-academic-word-list-engine"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "repo-wims-edu",
+  "type": "github_ecosystem",
+  "repo": "wimsedu/wims",
+  "title": "法国大学、预科 (CPGE) 与高中广泛使用的交互式多功能教学服务器",
+  "tech_stack": "C, Shell, Perl, LaTeX",
+  "domain": "France CPGE",
+  "url": "https://github.com/wimsedu/wims",
+  "description": "法国大学、预科 (CPGE) 与高中广泛使用的交互式多功能教学服务器",
+  "path": "skills/github-ecosystem-100/repo-wims-edu"
+}

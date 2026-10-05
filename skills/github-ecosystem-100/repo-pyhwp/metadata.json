@@ -1,0 +1,11 @@
+{
+  "id": "repo-pyhwp",
+  "type": "github_ecosystem",
+  "repo": "pyhwp/pyhwp",
+  "title": "解析和转换韩国特有 HWP 格式考卷文档的开源核心库",
+  "tech_stack": "Python",
+  "domain": "Korea Parser",
+  "url": "https://github.com/pyhwp/pyhwp",
+  "description": "解析和转换韩国特有 HWP 格式考卷文档的开源核心库",
+  "path": "skills/github-ecosystem-100/repo-pyhwp"
+}

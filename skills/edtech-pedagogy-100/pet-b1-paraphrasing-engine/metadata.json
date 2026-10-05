@@ -1,0 +1,10 @@
+{
+  "id": "pet-b1-paraphrasing-engine",
+  "type": "edtech_pedagogy",
+  "title": "剑桥通用五级 B1 Preliminary (PET) 同义句重构与句型改写技能",
+  "region": "Cambridge PET",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "专攻改写能力（Sentence Transformation），强化同义句转换（如 active to passive, so that to in order to）。",
+  "path": "skills/edtech-pedagogy-100/pet-b1-paraphrasing-engine"
+}

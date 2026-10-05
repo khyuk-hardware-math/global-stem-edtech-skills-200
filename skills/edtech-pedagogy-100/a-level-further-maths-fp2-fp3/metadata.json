@@ -1,0 +1,10 @@
+{
+  "id": "a-level-further-maths-fp2-fp3",
+  "type": "edtech_pedagogy",
+  "title": "英国 A-Level 进阶数学 双曲函数微积分与极坐标双纽线技能",
+  "region": "UK A-Level",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "推导双曲函数积分反演、极坐标双纽线面积、矩阵特征多项式与微分方程待定系数算子法。",
+  "path": "skills/edtech-pedagogy-100/a-level-further-maths-fp2-fp3"
+}

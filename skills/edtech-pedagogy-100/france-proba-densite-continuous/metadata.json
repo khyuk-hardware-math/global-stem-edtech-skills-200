@@ -1,0 +1,10 @@
+{
+  "id": "france-proba-densite-continuous",
+  "type": "edtech_pedagogy",
+  "title": "法国高中连续型随机变量微积分表述与置信区间技能",
+  "region": "France Lycée",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "深入连续型随机变量（指数分布、正态分布）、大数定律与置信区间的规范微积分表述。",
+  "path": "skills/edtech-pedagogy-100/france-proba-densite-continuous"
+}

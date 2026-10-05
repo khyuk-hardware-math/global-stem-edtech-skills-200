@@ -1,0 +1,11 @@
+{
+  "id": "repo-studyplus-api-tools",
+  "type": "github_ecosystem",
+  "repo": "studyplus-api-tools/exam-tracker",
+  "title": "日本主流备考应用 Studyplus 的第三方学习时长与备考追踪工具",
+  "tech_stack": "Python, TypeScript",
+  "domain": "Japan Study",
+  "url": "https://github.com/studyplus-api-tools/exam-tracker",
+  "description": "日本主流备考应用 Studyplus 的第三方学习时长与备考追踪工具",
+  "path": "skills/github-ecosystem-100/repo-studyplus-api-tools"
+}

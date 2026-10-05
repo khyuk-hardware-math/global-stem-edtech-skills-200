@@ -1,0 +1,10 @@
+{
+  "id": "jee-calculus-tangent-normal-sniper",
+  "type": "edtech_pedagogy",
+  "title": "JEE Adv 解析几何与微积分切线极点极线性质秒解技能",
+  "region": "India JEE",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "攻克圆锥曲线与高阶导数极值综合题，利用参数方程与极点极线（Pole-Polar）性质极限提速。",
+  "path": "skills/edtech-pedagogy-100/jee-calculus-tangent-normal-sniper"
+}

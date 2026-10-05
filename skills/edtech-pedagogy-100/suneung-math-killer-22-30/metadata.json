@@ -1,0 +1,10 @@
+{
+  "id": "suneung-math-killer-22-30",
+  "type": "edtech_pedagogy",
+  "title": "韩国修能 (CSAT) 数学 22/30 杀手题极值与导数零点突破技能",
+  "region": "Korea CSAT",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "专攻数学试卷第 22 题（导数零点与连续性极值）与第 30 题（复合函数单调区间与最值分类讨论）。",
+  "path": "skills/edtech-pedagogy-100/suneung-math-killer-22-30"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "repo-coopmaths-mathalea",
+  "type": "github_ecosystem",
+  "repo": "coopmaths/mathalea",
+  "title": "法国教育部官方采纳的数学变参习题生成旗舰框架",
+  "tech_stack": "TypeScript, Svelte, LaTeX",
+  "domain": "France Bac",
+  "url": "https://forge.apps.education.fr/coopmaths/mathalea",
+  "description": "法国教育部官方采纳的数学变参习题生成旗舰框架",
+  "path": "skills/github-ecosystem-100/repo-coopmaths-mathalea"
+}

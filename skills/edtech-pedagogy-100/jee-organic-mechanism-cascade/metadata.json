@@ -1,0 +1,10 @@
+{
+  "id": "jee-organic-mechanism-cascade",
+  "type": "edtech_pedagogy",
+  "title": "JEE 高阶有机化学反应机理推导与立体选择性级联技能",
+  "region": "India JEE",
+  "subject": "Chemistry",
+  "hardware_node": "seoul-m4-director",
+  "description": "专门推导碳正离子重排、芳香族亲电取代、立体选择性（SN1/SN2/E1/E2）的多步骤级联机理。",
+  "path": "skills/edtech-pedagogy-100/jee-organic-mechanism-cascade"
+}

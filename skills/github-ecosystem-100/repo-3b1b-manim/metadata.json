@@ -1,0 +1,11 @@
+{
+  "id": "repo-3b1b-manim",
+  "type": "github_ecosystem",
+  "repo": "3b1b/manim",
+  "title": "Grant Sanderson (3Blue1Brown) 核心个人底层数学动画代码库",
+  "tech_stack": "Python, ModernGL",
+  "domain": "Math Aesthetic",
+  "url": "https://github.com/3b1b/manim",
+  "description": "Grant Sanderson (3Blue1Brown) 核心个人底层数学动画代码库",
+  "path": "skills/github-ecosystem-100/repo-3b1b-manim"
+}

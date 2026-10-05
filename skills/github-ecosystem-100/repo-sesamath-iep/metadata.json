@@ -1,0 +1,11 @@
+{
+  "id": "repo-sesamath-iep",
+  "type": "github_ecosystem",
+  "repo": "sesamath/iep",
+  "title": "法国初中互动式几何尺规作图教研工具 (Instru-en-Poche)",
+  "tech_stack": "JavaScript, Canvas",
+  "domain": "France Collège",
+  "url": "https://github.com/sesamath/iep",
+  "description": "法国初中互动式几何尺规作图教研工具 (Instru-en-Poche)",
+  "path": "skills/github-ecosystem-100/repo-sesamath-iep"
+}

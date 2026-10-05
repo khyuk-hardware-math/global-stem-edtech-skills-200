@@ -1,0 +1,11 @@
+{
+  "id": "repo-automated-essay-scoring-transformer",
+  "type": "github_ecosystem",
+  "repo": "F-Fer/automated_essay_scoring",
+  "title": "采用 Transformer 架构的雅思 Task 2 作文自动化多维指标评测系统",
+  "tech_stack": "Python, HuggingFace, BERT",
+  "domain": "IELTS Writing",
+  "url": "https://github.com/F-Fer/automated_essay_scoring",
+  "description": "采用 Transformer 架构的雅思 Task 2 作文自动化多维指标评测系统",
+  "path": "skills/github-ecosystem-100/repo-automated-essay-scoring-transformer"
+}

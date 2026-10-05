@@ -1,0 +1,11 @@
+{
+  "id": "repo-cambridge-exam-mock-system",
+  "type": "github_ecosystem",
+  "repo": "cambridge-exam-mock-system/lite",
+  "title": "轻量级 KET/PET 听力带音频时间轴与即时答卷测试系统",
+  "tech_stack": "React, Node.js",
+  "domain": "Cambridge Mock",
+  "url": "https://github.com/cambridge-exam-mock-system/lite",
+  "description": "轻量级 KET/PET 听力带音频时间轴与即时答卷测试系统",
+  "path": "skills/github-ecosystem-100/repo-cambridge-exam-mock-system"
+}

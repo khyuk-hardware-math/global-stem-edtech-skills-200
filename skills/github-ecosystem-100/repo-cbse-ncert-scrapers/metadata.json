@@ -1,0 +1,11 @@
+{
+  "id": "repo-cbse-ncert-scrapers",
+  "type": "github_ecosystem",
+  "repo": "avinash-k/cbse-ncert-scrapers",
+  "title": "抓取与清洗印度 NCERT 官方 9-12 年级数理化教科书工具",
+  "tech_stack": "Python, BeautifulSoup",
+  "domain": "India CBSE",
+  "url": "https://github.com/avinash-k/cbse-ncert-scrapers",
+  "description": "抓取与清洗印度 NCERT 官方 9-12 年级数理化教科书工具",
+  "path": "skills/github-ecosystem-100/repo-cbse-ncert-scrapers"
+}

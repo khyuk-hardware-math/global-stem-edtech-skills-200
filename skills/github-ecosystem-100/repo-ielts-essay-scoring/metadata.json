@@ -1,0 +1,11 @@
+{
+  "id": "repo-ielts-essay-scoring",
+  "type": "github_ecosystem",
+  "repo": "khuchuuanh/IELTS-Essay-Scoring",
+  "title": "基于 NLP 特征与深度学习的雅思写作自动化评分工具",
+  "tech_stack": "Python, Flask, PyTorch",
+  "domain": "IELTS Writing",
+  "url": "https://github.com/khuchuuanh/IELTS-Essay-Scoring",
+  "description": "基于 NLP 特征与深度学习的雅思写作自动化评分工具",
+  "path": "skills/github-ecosystem-100/repo-ielts-essay-scoring"
+}

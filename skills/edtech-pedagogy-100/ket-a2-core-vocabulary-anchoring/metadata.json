@@ -1,0 +1,10 @@
+{
+  "id": "ket-a2-core-vocabulary-anchoring",
+  "type": "edtech_pedagogy",
+  "title": "剑桥通用五级 A2 Key (KET) 官方 1500 核心词汇立体记忆技能",
+  "region": "Cambridge KET",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "基于剑桥官方 1500 词大纲，通过情景造句、反义词配对与常见拼写易错点建立高频认知。",
+  "path": "skills/edtech-pedagogy-100/ket-a2-core-vocabulary-anchoring"
+}

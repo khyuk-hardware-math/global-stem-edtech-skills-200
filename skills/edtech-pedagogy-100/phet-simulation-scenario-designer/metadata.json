@@ -1,0 +1,10 @@
+{
+  "id": "phet-simulation-scenario-designer",
+  "type": "edtech_pedagogy",
+  "title": "Colorado PhET 物理/化学仿真模拟实验互动教案设计技能",
+  "region": "Virtual Labs",
+  "subject": "Science",
+  "hardware_node": "seoul-m4-director",
+  "description": "基于 Colorado PhET 开源体系设计探究式实验学案（电路仿真、光折射反射、理想气体定律）。",
+  "path": "skills/edtech-pedagogy-100/phet-simulation-scenario-designer"
+}

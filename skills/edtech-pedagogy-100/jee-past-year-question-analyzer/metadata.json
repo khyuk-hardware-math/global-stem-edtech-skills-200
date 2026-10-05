@@ -1,0 +1,10 @@
+{
+  "id": "jee-past-year-question-analyzer",
+  "type": "edtech_pedagogy",
+  "title": "JEE 2010-2026 历年真题 (PYQ) 考点溯源与难度分级技能",
+  "region": "India JEE",
+  "subject": "Multi-STEM",
+  "hardware_node": "seoul-m4-director / storage-db-node",
+  "description": "结构化标定历年真题考点迁移路径，对题型难度（Single Choice, Multi-Correct, Matrix Match）分级打标。",
+  "path": "skills/edtech-pedagogy-100/jee-past-year-question-analyzer"
+}

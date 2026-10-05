@@ -1,0 +1,10 @@
+{
+  "id": "france-college-brevet-maths",
+  "type": "edtech_pedagogy",
+  "title": "法国初中 (3ème) 毕业会考 (DNB) 几何与代数规范证明技能",
+  "region": "France Collège",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "聚焦泰勒斯定理 (Thalès)、勾股定理、一次函数与基础几何作图的法语规范化几何证明叙述。",
+  "path": "skills/edtech-pedagogy-100/france-college-brevet-maths"
+}

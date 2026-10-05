@@ -1,0 +1,11 @@
+{
+  "id": "repo-khan-exercises",
+  "type": "github_ecosystem",
+  "repo": "Khan/khan-exercises",
+  "title": "可汗学院 (Khan Academy) 开源题目练习框架与全科题目库",
+  "tech_stack": "JavaScript, Perseus",
+  "domain": "Global K-12",
+  "url": "https://github.com/Khan/khan-exercises",
+  "description": "可汗学院 (Khan Academy) 开源题目练习框架与全科题目库",
+  "path": "skills/github-ecosystem-100/repo-khan-exercises"
+}

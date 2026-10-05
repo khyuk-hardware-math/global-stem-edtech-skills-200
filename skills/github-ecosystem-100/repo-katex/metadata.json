@@ -1,0 +1,11 @@
+{
+  "id": "repo-katex",
+  "type": "github_ecosystem",
+  "repo": "Khan/KaTeX",
+  "title": "可汗学院出品的极速 Web 数学公式排版引擎，每秒渲染数千个公式",
+  "tech_stack": "JavaScript",
+  "domain": "Math Typesetting",
+  "url": "https://github.com/Khan/KaTeX",
+  "description": "可汗学院出品的极速 Web 数学公式排版引擎，每秒渲染数千个公式",
+  "path": "skills/github-ecosystem-100/repo-katex"
+}

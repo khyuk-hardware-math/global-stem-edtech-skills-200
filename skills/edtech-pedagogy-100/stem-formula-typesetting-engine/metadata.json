@@ -1,0 +1,10 @@
+{
+  "id": "stem-formula-typesetting-engine",
+  "type": "edtech_pedagogy",
+  "title": "国际出版级 LaTeX/KaTeX 多行对齐与化学 mhchem 治理技能",
+  "region": "Formula Typesetting",
+  "subject": "Publishing",
+  "hardware_node": "seoul-m4-director",
+  "description": "规范书写微积分、多元向量、化学方程式（mhchem）、原子核裂变衰变方程式，零语法报错。",
+  "path": "skills/edtech-pedagogy-100/stem-formula-typesetting-engine"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "repo-lm-evaluation-harness",
+  "type": "github_ecosystem",
+  "repo": "EleutherAI/lm-evaluation-harness",
+  "title": "全球权威的大模型自动化评测套件，内建 GSM8K, MATH, MMLU 题库",
+  "tech_stack": "Python",
+  "domain": "LLM Evaluation",
+  "url": "https://github.com/EleutherAI/lm-evaluation-harness",
+  "description": "全球权威的大模型自动化评测套件，内建 GSM8K, MATH, MMLU 题库",
+  "path": "skills/github-ecosystem-100/repo-lm-evaluation-harness"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cambridge-speaking-pair-dialogue",
+  "type": "edtech_pedagogy",
+  "title": "KET/PET 口语考官二人对话搭档互动与观点交换模拟技能",
+  "region": "Cambridge Speaking",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "模拟口语考官与搭档问答（Part 2 互动讨论），强化意见询问、赞同反驳与肢体自信表达。",
+  "path": "skills/edtech-pedagogy-100/cambridge-speaking-pair-dialogue"
+}

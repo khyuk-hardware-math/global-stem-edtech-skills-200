@@ -1,0 +1,11 @@
+{
+  "id": "repo-oxford-3000-5000-vocab",
+  "type": "github_ecosystem",
+  "repo": "oxford-3000-5000-vocabulary-dataset/db",
+  "title": "牛津核心 3000/5000 词与 CEFR 难度标签的高质量开源数据集",
+  "tech_stack": "CSV, SQLite",
+  "domain": "Vocabulary DB",
+  "url": "https://github.com/oxford-3000-5000-vocabulary-dataset/db",
+  "description": "牛津核心 3000/5000 词与 CEFR 难度标签的高质量开源数据集",
+  "path": "skills/github-ecosystem-100/repo-oxford-3000-5000-vocab"
+}

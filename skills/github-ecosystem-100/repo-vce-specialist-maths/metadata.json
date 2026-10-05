@@ -1,0 +1,11 @@
+{
+  "id": "repo-vce-specialist-maths",
+  "type": "github_ecosystem",
+  "repo": "vce-specialist-maths/interactive-notes",
+  "title": "澳大利亚维州 VCE Specialist 全套互动微积分与空间几何课件",
+  "tech_stack": "Jupyter, Python",
+  "domain": "Australia VCE",
+  "url": "https://github.com/vce-specialist-maths/interactive-notes",
+  "description": "澳大利亚维州 VCE Specialist 全套互动微积分与空间几何课件",
+  "path": "skills/github-ecosystem-100/repo-vce-specialist-maths"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "repo-a-level-physics-archive",
+  "type": "github_ecosystem",
+  "repo": "A-Level-Physics-Archive/exam-papers",
+  "title": "英国 AQA, Edexcel, OCR 历年物理与数学大题数字化归档",
+  "tech_stack": "TeX, Shell",
+  "domain": "UK A-Level",
+  "url": "https://github.com/A-Level-Physics-Archive/exam-papers",
+  "description": "英国 AQA, Edexcel, OCR 历年物理与数学大题数字化归档",
+  "path": "skills/github-ecosystem-100/repo-a-level-physics-archive"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "toefl-academic-discussion-writing",
+  "type": "edtech_pedagogy",
+  "title": "托福新版 10 分钟学术讨论写作 (Academic Discussion) 高效论证技能",
+  "region": "TOEFL Writing",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "针对 10 分钟 100+ 词的在线论坛互动题，快速提炼两位同学观点并输出具说服力的独立论证。",
+  "path": "skills/edtech-pedagogy-100/toefl-academic-discussion-writing"
+}

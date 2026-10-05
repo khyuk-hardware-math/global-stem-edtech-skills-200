@@ -1,0 +1,11 @@
+{
+  "id": "repo-direct-mogo",
+  "type": "github_ecosystem",
+  "repo": "Mangom72/Direct-mogo",
+  "title": "聚合 2006 年至今全部韩国高考修能、学评、模评真题 PDF 导出工具",
+  "tech_stack": "C#, .NET, WPF",
+  "domain": "Korea CSAT",
+  "url": "https://github.com/Mangom72/Direct-mogo",
+  "description": "聚合 2006 年至今全部韩国高考修能、学评、模评真题 PDF 导出工具",
+  "path": "skills/github-ecosystem-100/repo-direct-mogo"
+}

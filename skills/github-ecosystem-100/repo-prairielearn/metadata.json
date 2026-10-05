@@ -1,0 +1,11 @@
+{
+  "id": "repo-prairielearn",
+  "type": "github_ecosystem",
+  "repo": "PrairieLearn/PrairieLearn",
+  "title": "UIUC 开源的掌握性在线数理作业与机考自动评分平台",
+  "tech_stack": "Node.js, Python, PostgreSQL",
+  "domain": "University / STEM",
+  "url": "https://github.com/PrairieLearn/PrairieLearn",
+  "description": "UIUC 开源的掌握性在线数理作业与机考自动评分平台",
+  "path": "skills/github-ecosystem-100/repo-prairielearn"
+}

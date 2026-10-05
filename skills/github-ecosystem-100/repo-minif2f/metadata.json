@@ -1,0 +1,11 @@
+{
+  "id": "repo-minif2f",
+  "type": "github_ecosystem",
+  "repo": "openai/miniF2F",
+  "title": "面向形式化数学与自动定理证明的基准数据集，包含高中奥赛和高考真题",
+  "tech_stack": "Lean 3/4, Isabelle",
+  "domain": "Formal Math Benchmark",
+  "url": "https://github.com/openai/miniF2F",
+  "description": "面向形式化数学与自动定理证明的基准数据集，包含高中奥赛和高考真题",
+  "path": "skills/github-ecosystem-100/repo-minif2f"
+}

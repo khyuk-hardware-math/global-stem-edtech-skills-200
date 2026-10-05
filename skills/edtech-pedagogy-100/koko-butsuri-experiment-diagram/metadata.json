@@ -1,0 +1,10 @@
+{
+  "id": "koko-butsuri-experiment-diagram",
+  "type": "edtech_pedagogy",
+  "title": "日本高校物理探究实验示意图生成与最小二乘拟合技能",
+  "region": "Japan Physics",
+  "subject": "Physics",
+  "hardware_node": "seoul-m4-director",
+  "description": "针对实验考察题，生成装置示意图、误差传播分析与基于最小二乘法的图表线性拟合。",
+  "path": "skills/edtech-pedagogy-100/koko-butsuri-experiment-diagram"
+}

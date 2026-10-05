@@ -1,0 +1,11 @@
+{
+  "id": "repo-torobo-solver",
+  "type": "github_ecosystem",
+  "repo": "nii-todai-robot/torobo-solver",
+  "title": "日本国立情报学研究所 (NII) 东大机器人项目的数理求解组件",
+  "tech_stack": "Lisp, Python, Maxima",
+  "domain": "Japan Todai",
+  "url": "https://github.com/nii-todai-robot/torobo-solver",
+  "description": "日本国立情报学研究所 (NII) 东大机器人项目的数理求解组件",
+  "path": "skills/github-ecosystem-100/repo-torobo-solver"
+}

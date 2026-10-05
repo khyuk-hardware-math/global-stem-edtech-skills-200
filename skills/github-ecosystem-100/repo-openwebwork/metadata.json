@@ -1,0 +1,11 @@
+{
+  "id": "repo-openwebwork",
+  "type": "github_ecosystem",
+  "repo": "openwebwork/webwork2",
+  "title": "美国数学协会 (MAA) 主导的数理开源在线作业与代数验证系统",
+  "tech_stack": "Perl, C, MySQL",
+  "domain": "Global Math",
+  "url": "https://github.com/openwebwork/webwork2",
+  "description": "美国数学协会 (MAA) 主导的数理开源在线作业与代数验证系统",
+  "path": "skills/github-ecosystem-100/repo-openwebwork"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "repo-ielts-band9-corpus",
+  "type": "github_ecosystem",
+  "repo": "ielts-band9-corpus/sample-essays",
+  "title": "收录数百篇前雅思考官认证的 Band 8.5-9.0 满分范文与精细批注库",
+  "tech_stack": "Markdown, JSON",
+  "domain": "IELTS Corpus",
+  "url": "https://github.com/ielts-band9-corpus/sample-essays",
+  "description": "收录数百篇前雅思考官认证的 Band 8.5-9.0 满分范文与精细批注库",
+  "path": "skills/github-ecosystem-100/repo-ielts-band9-corpus"
+}

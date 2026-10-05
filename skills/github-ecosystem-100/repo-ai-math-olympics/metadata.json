@@ -1,0 +1,11 @@
+{
+  "id": "repo-ai-math-olympics",
+  "type": "github_ecosystem",
+  "repo": "agiresearch/AI-Math-Olympics",
+  "title": "专门收录 AIME、IMO 与各国顶尖高考数学压轴题的多模态形式化证明",
+  "tech_stack": "Python, Lean 4",
+  "domain": "Math Olympics",
+  "url": "https://github.com/agiresearch/AI-Math-Olympics",
+  "description": "专门收录 AIME、IMO 与各国顶尖高考数学压轴题的多模态形式化证明",
+  "path": "skills/github-ecosystem-100/repo-ai-math-olympics"
+}

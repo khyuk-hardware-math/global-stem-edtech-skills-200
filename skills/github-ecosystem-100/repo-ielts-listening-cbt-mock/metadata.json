@@ -1,0 +1,11 @@
+{
+  "id": "repo-ielts-listening-cbt-mock",
+  "type": "github_ecosystem",
+  "repo": "ielts-listening-cbt-mock-app/web",
+  "title": "1:1 还原雅思机考 (IELTS on Computer) 的听力与阅读界面交互前端",
+  "tech_stack": "React, Redux, SCSS",
+  "domain": "IELTS CBT",
+  "url": "https://github.com/ielts-listening-cbt-mock-app/web",
+  "description": "1:1 还原雅思机考 (IELTS on Computer) 的听力与阅读界面交互前端",
+  "path": "skills/github-ecosystem-100/repo-ielts-listening-cbt-mock"
+}

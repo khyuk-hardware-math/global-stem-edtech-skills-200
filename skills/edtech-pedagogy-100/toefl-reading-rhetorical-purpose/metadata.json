@@ -1,0 +1,10 @@
+{
+  "id": "toefl-reading-rhetorical-purpose",
+  "type": "edtech_pedagogy",
+  "title": "托福学术阅读修辞目的 (Rhetorical Purpose) 句间用意解构技能",
+  "region": "TOEFL Reading",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "剖析作者提及特定例子、引用或修辞手法的宏观用意（support, illustrate, refute, contrast）。",
+  "path": "skills/edtech-pedagogy-100/toefl-reading-rhetorical-purpose"
+}

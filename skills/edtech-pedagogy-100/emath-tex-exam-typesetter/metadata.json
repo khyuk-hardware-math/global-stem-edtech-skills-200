@@ -1,0 +1,10 @@
+{
+  "id": "emath-tex-exam-typesetter",
+  "type": "edtech_pedagogy",
+  "title": "日本高校考卷 emath LaTeX 规范化试卷排版与网格生成技能",
+  "region": "Japan LaTeX",
+  "subject": "Typesetting",
+  "hardware_node": "seoul-m4-director",
+  "description": "生成符合日本传统考卷排版的 emath 宏包源码，标准化输出带标号填空方格与坐标系图。",
+  "path": "skills/edtech-pedagogy-100/emath-tex-exam-typesetter"
+}

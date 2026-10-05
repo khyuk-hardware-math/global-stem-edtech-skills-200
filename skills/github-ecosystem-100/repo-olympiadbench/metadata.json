@@ -1,0 +1,11 @@
+{
+  "id": "repo-olympiadbench",
+  "type": "github_ecosystem",
+  "repo": "OlympiadBench/OlympiadBench",
+  "title": "清华大学等机构推出的全球奥林匹克与高难高考多模态数理评测基准",
+  "tech_stack": "Python, JSON",
+  "domain": "Olympiad Benchmark",
+  "url": "https://github.com/OlympiadBench/OlympiadBench",
+  "description": "清华大学等机构推出的全球奥林匹克与高难高考多模态数理评测基准",
+  "path": "skills/github-ecosystem-100/repo-olympiadbench"
+}

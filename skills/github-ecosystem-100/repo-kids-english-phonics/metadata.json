@@ -1,0 +1,11 @@
+{
+  "id": "repo-kids-english-phonics",
+  "type": "github_ecosystem",
+  "repo": "kids-english-phonics-engine/web",
+  "title": "专为少儿英语设计的 44 个发音音标与自然拼读拆音练习交互组件",
+  "tech_stack": "JavaScript, Web Audio",
+  "domain": "Kids Phonics",
+  "url": "https://github.com/kids-english-phonics-engine/web",
+  "description": "专为少儿英语设计的 44 个发音音标与自然拼读拆音练习交互组件",
+  "path": "skills/github-ecosystem-100/repo-kids-english-phonics"
+}

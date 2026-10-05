@@ -1,0 +1,10 @@
+{
+  "id": "suneung-semi-killer-time-management",
+  "type": "edtech_pedagogy",
+  "title": "韩国修能 100分钟完成30题的黄金时间线战术配比技能",
+  "region": "Korea CSAT",
+  "subject": "Strategy",
+  "hardware_node": "seoul-m4-director",
+  "description": "规划 100 分钟内完成 30 道大题的黄金时间线，确保在 65 分钟内扫平前 27 题。",
+  "path": "skills/edtech-pedagogy-100/suneung-semi-killer-time-management"
+}

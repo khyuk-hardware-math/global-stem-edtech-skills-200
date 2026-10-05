@@ -1,0 +1,11 @@
+{
+  "id": "repo-kktex-publicated-files",
+  "type": "github_ecosystem",
+  "repo": "KKTeX/Publicated-Files",
+  "title": "专门用于还原日本大学入试模试与共通测试版面的 LaTeX 宏包库",
+  "tech_stack": "TeX / LaTeX",
+  "domain": "Japan Common Test",
+  "url": "https://github.com/KKTeX/Publicated-Files",
+  "description": "专门用于还原日本大学入试模试与共通测试版面的 LaTeX 宏包库",
+  "path": "skills/github-ecosystem-100/repo-kktex-publicated-files"
+}

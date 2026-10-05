@@ -1,0 +1,11 @@
+{
+  "id": "repo-phetsims-core",
+  "type": "github_ecosystem",
+  "repo": "phetsims/phet-core",
+  "title": "科罗拉多大学著名的 PhET 互动仿真模拟项目底层框架",
+  "tech_stack": "JavaScript, HTML5 Canvas",
+  "domain": "Virtual Labs",
+  "url": "https://github.com/phetsims/phet-core",
+  "description": "科罗拉多大学著名的 PhET 互动仿真模拟项目底层框架",
+  "path": "skills/github-ecosystem-100/repo-phetsims-core"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "repo-mathvista",
+  "type": "github_ecosystem",
+  "repo": "microsoft/MathVista",
+  "title": "微软推出的包含几何图、函数图与示意图的开创性视觉数学大模型基准",
+  "tech_stack": "Python, PyTorch",
+  "domain": "Multimodal Math",
+  "url": "https://github.com/microsoft/MathVista",
+  "description": "微软推出的包含几何图、函数图与示意图的开创性视觉数学大模型基准",
+  "path": "skills/github-ecosystem-100/repo-mathvista"
+}

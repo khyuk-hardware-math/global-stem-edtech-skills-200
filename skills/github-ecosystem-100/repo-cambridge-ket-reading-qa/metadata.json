@@ -1,0 +1,11 @@
+{
+  "id": "repo-cambridge-ket-reading-qa",
+  "type": "github_ecosystem",
+  "repo": "cambridge-english-parser/ket-reading-qa",
+  "title": "KET 阅读理解各题型（告示理解、单选、完形）自动化题干切片器",
+  "tech_stack": "Python, Regex",
+  "domain": "Cambridge KET",
+  "url": "https://github.com/cambridge-english-parser/ket-reading-qa",
+  "description": "KET 阅读理解各题型（告示理解、单选、完形）自动化题干切片器",
+  "path": "skills/github-ecosystem-100/repo-cambridge-ket-reading-qa"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "desmos-graphing-calculator-art",
+  "type": "edtech_pedagogy",
+  "title": "Desmos 动态参数包络线与导数切线实时渲染设计技能",
+  "region": "Dynamic Graphing",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "编写 Desmos 函数表达式列表（分段函数、隐函数方程），呈现动态参数包络线与导数切线动画。",
+  "path": "skills/edtech-pedagogy-100/desmos-graphing-calculator-art"
+}

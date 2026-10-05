@@ -1,0 +1,10 @@
+{
+  "id": "ket-pet-grammar-architecture-tutor",
+  "type": "edtech_pedagogy",
+  "title": "剑桥核心时态树（现在完成时/被动语态/情态动词）系统解析技能",
+  "region": "Cambridge Grammar",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "系统梳理现在完成时 vs 一般过去时、比较级最高级不规则变形、情态动词表推测的边界。",
+  "path": "skills/edtech-pedagogy-100/ket-pet-grammar-architecture-tutor"
+}

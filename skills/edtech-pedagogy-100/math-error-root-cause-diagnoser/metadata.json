@@ -1,0 +1,10 @@
+{
+  "id": "math-error-root-cause-diagnoser",
+  "type": "edtech_pedagogy",
+  "title": "解题粗心/概念模糊/公式套错多维根因归因诊断技能",
+  "region": "Error Diagnosis",
+  "subject": "Assessment",
+  "hardware_node": "seoul-m4-director",
+  "description": "将错题归因至“概念混淆、计算粗心、审题漏条件、公式记错、解题策略偏差”等明确维度。",
+  "path": "skills/edtech-pedagogy-100/math-error-root-cause-diagnoser"
+}

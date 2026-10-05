@@ -1,0 +1,10 @@
+{
+  "id": "bac-physique-chimie-titration",
+  "type": "edtech_pedagogy",
+  "title": "法国 Bac 物理化学酸碱滴定微分方程与波动干涉技能",
+  "region": "France Bac",
+  "subject": "Physics & Chemistry",
+  "hardware_node": "seoul-m4-director",
+  "description": "专攻酸碱中和与电导滴定分析、牛顿第二定律微分方程建立与波动干涉衍射计算。",
+  "path": "skills/edtech-pedagogy-100/bac-physique-chimie-titration"
+}

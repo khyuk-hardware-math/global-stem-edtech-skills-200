@@ -1,0 +1,10 @@
+{
+  "id": "toefl-academic-lecture-cornell-notetaker",
+  "type": "edtech_pedagogy",
+  "title": "托福高难学术讲座康奈尔缩写记笔记系统构建技能",
+  "region": "TOEFL Listening",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "基于学科信号词（Classification, Cause/Effect, Timeline）在草稿纸上生成缩写符号流程图。",
+  "path": "skills/edtech-pedagogy-100/toefl-academic-lecture-cornell-notetaker"
+}

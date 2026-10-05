@@ -1,0 +1,10 @@
+{
+  "id": "jee-irodov-krotov-solver",
+  "type": "edtech_pedagogy",
+  "title": "Irodov & Krotov 经典数理难题化简与特征值代换技能",
+  "region": "India JEE / Olympiad",
+  "subject": "Physics",
+  "hardware_node": "seoul-m4-director",
+  "description": "针对 Irodov《普通物理学习题集》与 Krotov 高难度物理题，输出最小代数代换解法与极限物理图像判定。",
+  "path": "skills/edtech-pedagogy-100/jee-irodov-krotov-solver"
+}

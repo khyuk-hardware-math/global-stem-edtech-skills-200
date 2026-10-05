@@ -1,0 +1,10 @@
+{
+  "id": "typst-math-speed-typesetter",
+  "type": "edtech_pedagogy",
+  "title": "现代极速排版引擎 Typst 考卷试题答题卡双栏混排生成技能",
+  "region": "Modern Typesetting",
+  "subject": "Publishing",
+  "hardware_node": "seoul-m4-director",
+  "description": "使用 Typst 极速渲染现代风格考卷，支持双栏混排、自动填空虚线、题号计数器与答题卡生成。",
+  "path": "skills/edtech-pedagogy-100/typst-math-speed-typesetter"
+}

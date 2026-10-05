@@ -1,0 +1,10 @@
+{
+  "id": "cross-curriculum-syllabus-mapper",
+  "type": "edtech_pedagogy",
+  "title": "中/美/英/法/日/韩/印 7国高中数理知识谱系横向映射技能",
+  "region": "Curriculum Mapping",
+  "subject": "Comparative Ed",
+  "hardware_node": "seoul-m4-director",
+  "description": "跨国对齐高中知识谱系（如中国高考 <-> 印度 JEE <-> 法国 Bac <-> 美国 AP <-> 韩国修能）。",
+  "path": "skills/edtech-pedagogy-100/cross-curriculum-syllabus-mapper"
+}

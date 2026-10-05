@@ -1,0 +1,10 @@
+{
+  "id": "ib-math-analysis-approaches-hl",
+  "type": "edtech_pedagogy",
+  "title": "国际文凭 IB DP Math AA HL 严密性微积分与 IA 探索论文技能",
+  "region": "IB DP",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "指导微积分严密性证明，兼顾内部评估 (IA) 探索论文的数学模型构建与格式规范。",
+  "path": "skills/edtech-pedagogy-100/ib-math-analysis-approaches-hl"
+}

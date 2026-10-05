@@ -1,0 +1,10 @@
+{
+  "id": "eval-harness-student-learning-audit",
+  "type": "edtech_pedagogy",
+  "title": "学情周期性知识点掌握度热力图与雷达图评测技能",
+  "region": "Learning Analytics",
+  "subject": "Assessment",
+  "hardware_node": "seoul-m4-director / storage-db-node",
+  "description": "汇总数十次小测与作业数据，生成知识掌握度热力图（Heatmap）与薄弱知识点冲刺建议。",
+  "path": "skills/edtech-pedagogy-100/eval-harness-student-learning-audit"
+}

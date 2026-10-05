@@ -1,0 +1,11 @@
+{
+  "id": "repo-toefl-reading-passage-analyzer",
+  "type": "github_ecosystem",
+  "repo": "toefl-reading-passage-analyzer/metrics",
+  "title": "统计托福学术文章句长分布、可读性指数与长难句抽离器",
+  "tech_stack": "Python, NLTK",
+  "domain": "TOEFL Reading",
+  "url": "https://github.com/toefl-reading-passage-analyzer/metrics",
+  "description": "统计托福学术文章句长分布、可读性指数与长难句抽离器",
+  "path": "skills/github-ecosystem-100/repo-toefl-reading-passage-analyzer"
+}

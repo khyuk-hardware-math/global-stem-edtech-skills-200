@@ -1,0 +1,11 @@
+{
+  "id": "repo-moodle-qtype-stack",
+  "type": "github_ecosystem",
+  "repo": "maths/moodle-qtype_stack",
+  "title": "英国爱丁堡大学开发的基于 Maxima 代数系统的自动评估插件",
+  "tech_stack": "PHP, Maxima, Moodle",
+  "domain": "A-Level / STEM",
+  "url": "https://github.com/maths/moodle-qtype_stack",
+  "description": "英国爱丁堡大学开发的基于 Maxima 代数系统的自动评估插件",
+  "path": "skills/github-ecosystem-100/repo-moodle-qtype-stack"
+}

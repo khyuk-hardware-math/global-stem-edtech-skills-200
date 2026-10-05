@@ -1,0 +1,11 @@
+{
+  "id": "repo-speech-rater-toefl",
+  "type": "github_ecosystem",
+  "repo": "speech-rater-toefl/pronunciation-check",
+  "title": "模拟 ETS SpeechRater 对发音、语速波动与音节重音的客观评定",
+  "tech_stack": "Python, PyTorch, Kaldi",
+  "domain": "TOEFL Speaking",
+  "url": "https://github.com/speech-rater-toefl/pronunciation-check",
+  "description": "模拟 ETS SpeechRater 对发音、语速波动与音节重音的客观评定",
+  "path": "skills/github-ecosystem-100/repo-speech-rater-toefl"
+}

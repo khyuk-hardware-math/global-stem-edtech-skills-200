@@ -1,0 +1,11 @@
+{
+  "id": "repo-open-cefr-vocab-ket-pet",
+  "type": "github_ecosystem",
+  "repo": "open-cefr-vocab/cambridge-ket-pet",
+  "title": "剑桥官方 A2 Key 与 B1 Preliminary 权威大纲词汇结构化 JSON",
+  "tech_stack": "JSON, Python",
+  "domain": "Cambridge KET/PET",
+  "url": "https://github.com/open-cefr-vocab/cambridge-ket-pet",
+  "description": "剑桥官方 A2 Key 与 B1 Preliminary 权威大纲词汇结构化 JSON",
+  "path": "skills/github-ecosystem-100/repo-open-cefr-vocab-ket-pet"
+}

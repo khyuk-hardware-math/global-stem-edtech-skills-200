@@ -1,0 +1,11 @@
+{
+  "id": "repo-threejs",
+  "type": "github_ecosystem",
+  "repo": "mrdoob/three.js",
+  "title": "最流行的 Web 3D 渲染库，用于浏览器中立体几何与物理空间演示",
+  "tech_stack": "JavaScript, WebGL, WebGPU",
+  "domain": "3D Visualization",
+  "url": "https://github.com/mrdoob/three.js",
+  "description": "最流行的 Web 3D 渲染库，用于浏览器中立体几何与物理空间演示",
+  "path": "skills/github-ecosystem-100/repo-threejs"
+}

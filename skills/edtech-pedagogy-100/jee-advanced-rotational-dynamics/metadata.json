@@ -1,0 +1,10 @@
+{
+  "id": "jee-advanced-rotational-dynamics",
+  "type": "edtech_pedagogy",
+  "title": "India JEE Advanced 刚体转动动力学与角动量守恒多轴耦合解题专科技能",
+  "region": "India JEE",
+  "subject": "Physics",
+  "hardware_node": "seoul-m4-director / gpu-cuda-node",
+  "description": "专攻印度 JEE Advanced 刚体定轴转动、平面平行运动与微元法力矩方程推导，解决 Irodov/Krotov 级别高难多刚体动力学题。",
+  "path": "skills/edtech-pedagogy-100/jee-advanced-rotational-dynamics"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "repo-suken-math-cert",
+  "type": "github_ecosystem",
+  "repo": "suken-foundation/math-cert-sample-codes",
+  "title": "日本实用数学技能检定考题解析与几何算法验证示例集",
+  "tech_stack": "Python, Jupyter",
+  "domain": "Japan Suken",
+  "url": "https://github.com/suken-foundation/math-cert-sample-codes",
+  "description": "日本实用数学技能检定考题解析与几何算法验证示例集",
+  "path": "skills/github-ecosystem-100/repo-suken-math-cert"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "repo-toefl-speaking-timer-eval",
+  "type": "github_ecosystem",
+  "repo": "toefl-speaking-timer-eval/recorder",
+  "title": "精准呈现托福口语 15s 准备 / 45s 作答波形与倒计时的实战录音器",
+  "tech_stack": "TypeScript, Web Audio",
+  "domain": "TOEFL Speaking",
+  "url": "https://github.com/toefl-speaking-timer-eval/recorder",
+  "description": "精准呈现托福口语 15s 准备 / 45s 作答波形与倒计时的实战录音器",
+  "path": "skills/github-ecosystem-100/repo-toefl-speaking-timer-eval"
+}

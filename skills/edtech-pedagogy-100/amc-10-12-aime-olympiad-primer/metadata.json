@@ -1,0 +1,10 @@
+{
+  "id": "amc-10-12-aime-olympiad-primer",
+  "type": "edtech_pedagogy",
+  "title": "全美数学竞赛 AMC 10/12 与 AIME 组合数论与皮克定理攻坚技能",
+  "region": "USA Olympiad",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "训练数论模运算阶与原根、组合几何皮克定理、柯西施瓦茨不等式及斯特瓦尔特定理。",
+  "path": "skills/edtech-pedagogy-100/amc-10-12-aime-olympiad-primer"
+}

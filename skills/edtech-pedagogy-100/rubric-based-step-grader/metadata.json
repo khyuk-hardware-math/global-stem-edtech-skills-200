@@ -1,0 +1,10 @@
+{
+  "id": "rubric-based-step-grader",
+  "type": "edtech_pedagogy",
+  "title": "中高考与国际大考采分点细化行级步骤评分技能",
+  "region": "Auto Grading",
+  "subject": "Assessment",
+  "hardware_node": "seoul-m4-director / edge-grading-node",
+  "description": "根据官方采分点对学生的 LaTeX 或手写 OCR 步骤进行行级评分（给出过程分与扣分因由）。",
+  "path": "skills/edtech-pedagogy-100/rubric-based-step-grader"
+}

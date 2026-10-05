@@ -1,0 +1,10 @@
+{
+  "id": "suneung-physics-2-relative-motion",
+  "type": "edtech_pedagogy",
+  "title": "韩国修能 物理Ⅱ选考 二维刚体平衡与复合场粒子轨迹技能",
+  "region": "Korea CSAT",
+  "subject": "Physics",
+  "hardware_node": "seoul-m4-director",
+  "description": "攻克二维刚体平衡、带电粒子在复合场中的轨迹曲线及相对论时间膨胀综合大题。",
+  "path": "skills/edtech-pedagogy-100/suneung-physics-2-relative-motion"
+}

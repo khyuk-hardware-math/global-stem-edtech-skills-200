@@ -1,0 +1,10 @@
+{
+  "id": "jupyter-notebook-stem-interactive",
+  "type": "edtech_pedagogy",
+  "title": "SymPy/NumPy 驱动的交互式可运行数理探究笔记开发技能",
+  "region": "Computational Notebooks",
+  "subject": "STEM",
+  "hardware_node": "seoul-m4-director",
+  "description": "整合 SymPy、NumPy 与 Matplotlib，提供让学生边改参数边出图的交互式数理计算教材。",
+  "path": "skills/edtech-pedagogy-100/jupyter-notebook-stem-interactive"
+}

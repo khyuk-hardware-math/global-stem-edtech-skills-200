@@ -1,0 +1,10 @@
+{
+  "id": "neet-botany-zoology-mnemonics",
+  "type": "edtech_pedagogy",
+  "title": "印度 NEET 生物 NCERT 权威大纲记忆锚点与生理学解构技能",
+  "region": "India NEET",
+  "subject": "Biology",
+  "hardware_node": "seoul-m4-director",
+  "description": "严格对齐印度 NCERT 官方教材，构建植物生理学、孟德尔遗传学规律与人体各系统调节的高精度记忆网络。",
+  "path": "skills/edtech-pedagogy-100/neet-botany-zoology-mnemonics"
+}

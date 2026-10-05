@@ -1,0 +1,10 @@
+{
+  "id": "suken-math-certification-tutor",
+  "type": "edtech_pedagogy",
+  "title": "日本实用数学技能检定 (数检) 1级/准1级 高等代数通关技能",
+  "region": "Japan Suken",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "覆盖数检 1 级、准 1 级与 2 级，针对微积分、线性代数和高等统计提供自适应通关评测。",
+  "path": "skills/edtech-pedagogy-100/suken-math-certification-tutor"
+}

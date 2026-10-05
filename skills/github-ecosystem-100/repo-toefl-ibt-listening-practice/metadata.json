@@ -1,0 +1,11 @@
+{
+  "id": "repo-toefl-ibt-listening-practice",
+  "type": "github_ecosystem",
+  "repo": "toefl-ibt-listening-practice/app",
+  "title": "专为托福听力长讲座设计的康奈尔笔记双栏界面与分段精听跟读 Web",
+  "tech_stack": "React, Web Audio API",
+  "domain": "TOEFL Listening",
+  "url": "https://github.com/toefl-ibt-listening-practice/app",
+  "description": "专为托福听力长讲座设计的康奈尔笔记双栏界面与分段精听跟读 Web",
+  "path": "skills/github-ecosystem-100/repo-toefl-ibt-listening-practice"
+}

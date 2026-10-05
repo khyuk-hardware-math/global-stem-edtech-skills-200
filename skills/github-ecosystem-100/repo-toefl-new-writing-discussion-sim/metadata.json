@@ -1,0 +1,11 @@
+{
+  "id": "repo-toefl-new-writing-discussion-sim",
+  "type": "github_ecosystem",
+  "repo": "toefl-new-writing-discussion-sim/client",
+  "title": "针对托福改革后学术讨论写作 (Academic Discussion) 的模拟答题器",
+  "tech_stack": "Vue.js, TailwindCSS",
+  "domain": "TOEFL Writing",
+  "url": "https://github.com/toefl-new-writing-discussion-sim/client",
+  "description": "针对托福改革后学术讨论写作 (Academic Discussion) 的模拟答题器",
+  "path": "skills/github-ecosystem-100/repo-toefl-new-writing-discussion-sim"
+}

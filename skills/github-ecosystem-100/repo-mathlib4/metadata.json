@@ -1,0 +1,11 @@
+{
+  "id": "repo-mathlib4",
+  "type": "github_ecosystem",
+  "repo": "leanprover-community/mathlib4",
+  "title": "形式化数学与交互式定理证明器 Lean 4 的官方数学库",
+  "tech_stack": "Lean 4, C++",
+  "domain": "Formal Proof",
+  "url": "https://github.com/leanprover-community/mathlib4",
+  "description": "形式化数学与交互式定理证明器 Lean 4 的官方数学库",
+  "path": "skills/github-ecosystem-100/repo-mathlib4"
+}

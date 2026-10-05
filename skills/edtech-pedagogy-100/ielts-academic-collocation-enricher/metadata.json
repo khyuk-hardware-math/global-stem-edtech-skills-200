@@ -1,0 +1,10 @@
+{
+  "id": "ielts-academic-collocation-enricher",
+  "type": "edtech_pedagogy",
+  "title": "雅思学术高分搭配库替换与中式英语平铺去口语化技能",
+  "region": "IELTS Vocabulary",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "将平凡表达（think, make, important）无缝升级为学术搭配（contend, yield, pivotal）。",
+  "path": "skills/edtech-pedagogy-100/ielts-academic-collocation-enricher"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cpge-mpsi-algebra-rigor",
+  "type": "edtech_pedagogy",
+  "title": "法国高等预科 (CPGE MPSI/PCSI) 线性代数与拓扑严谨证明技能",
+  "region": "France CPGE",
+  "subject": "Higher Math",
+  "hardware_node": "seoul-m4-director",
+  "description": "针对大一高等预科，深度推演欧几里得空间、线性映射核与像定理、对角化与若当标准型。",
+  "path": "skills/edtech-pedagogy-100/cpge-mpsi-algebra-rigor"
+}

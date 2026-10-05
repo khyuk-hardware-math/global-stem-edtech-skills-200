@@ -1,0 +1,10 @@
+{
+  "id": "chemfig-molecular-typesetter",
+  "type": "edtech_pedagogy",
+  "title": "LaTeX chemfig 有机物立体楔形键与共轭反应机理排版技能",
+  "region": "Chemistry Graphics",
+  "subject": "Chemistry",
+  "hardware_node": "seoul-m4-director",
+  "description": "利用 LaTeX chemfig 宏包高精度排版六元环、立体楔形键、苯环共轭体系与反应机理弯曲箭头。",
+  "path": "skills/edtech-pedagogy-100/chemfig-molecular-typesetter"
+}

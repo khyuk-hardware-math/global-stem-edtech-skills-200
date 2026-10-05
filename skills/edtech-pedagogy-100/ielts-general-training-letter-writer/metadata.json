@@ -1,0 +1,10 @@
+{
+  "id": "ielts-general-training-letter-writer",
+  "type": "edtech_pedagogy",
+  "title": "雅思 G 类移民书信 (Formal/Informal) 语域契合度写作技能",
+  "region": "IELTS General",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "精准把控正式（Formal）、半正式（Semi-formal）与非正式（Informal）语域（Register）基调。",
+  "path": "skills/edtech-pedagogy-100/ielts-general-training-letter-writer"
+}

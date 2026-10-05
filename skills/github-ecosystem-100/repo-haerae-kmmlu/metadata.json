@@ -1,0 +1,11 @@
+{
+  "id": "repo-haerae-kmmlu",
+  "type": "github_ecosystem",
+  "repo": "HAERAE-HUB/KMMLU",
+  "title": "包含大量韩国修能与专业等级考试题目的韩语多任务语言理解基准",
+  "tech_stack": "Python, Datasets",
+  "domain": "Korea Benchmark",
+  "url": "https://github.com/HAERAE-HUB/KMMLU",
+  "description": "包含大量韩国修能与专业等级考试题目的韩语多任务语言理解基准",
+  "path": "skills/github-ecosystem-100/repo-haerae-kmmlu"
+}

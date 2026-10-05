@@ -1,0 +1,10 @@
+{
+  "id": "spaced-repetition-anki-generator",
+  "type": "edtech_pedagogy",
+  "title": "艾宾浩斯记忆遗忘曲线 Anki Cloze 题包与公式包生成技能",
+  "region": "Spaced Repetition",
+  "subject": "Learning Ops",
+  "hardware_node": "seoul-m4-director",
+  "description": "自动将薄弱考点、生词、反应方程式转化为 Anki 卡片包（支持 Cloze 完形填空与数学公式）。",
+  "path": "skills/edtech-pedagogy-100/spaced-repetition-anki-generator"
+}

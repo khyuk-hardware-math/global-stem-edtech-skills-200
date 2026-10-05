@@ -1,0 +1,11 @@
+{
+  "id": "repo-jeebench",
+  "type": "github_ecosystem",
+  "repo": "dair-iitd/jeebench",
+  "title": "IIT Delhi 出品的 JEE Advanced 高难数理化大模型基准",
+  "tech_stack": "Python, PyTorch",
+  "domain": "India JEE",
+  "url": "https://github.com/dair-iitd/jeebench",
+  "description": "IIT Delhi 出品的 JEE Advanced 高难数理化大模型基准",
+  "path": "skills/github-ecosystem-100/repo-jeebench"
+}

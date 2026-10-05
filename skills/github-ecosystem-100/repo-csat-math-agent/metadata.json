@@ -1,0 +1,11 @@
+{
+  "id": "repo-csat-math-agent",
+  "type": "github_ecosystem",
+  "repo": "2026-bwai-golang-korea/csat-math",
+  "title": "针对韩国修能微积分与几何大纲构建的解题代理后端与知识图谱",
+  "tech_stack": "Go, Gin, Redis",
+  "domain": "Korea CSAT",
+  "url": "https://github.com/2026-bwai-golang-korea/csat-math",
+  "description": "针对韩国修能微积分与几何大纲构建的解题代理后端与知识图谱",
+  "path": "skills/github-ecosystem-100/repo-csat-math-agent"
+}

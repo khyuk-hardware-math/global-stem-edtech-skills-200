@@ -1,0 +1,11 @@
+{
+  "id": "repo-annales-bac-parser",
+  "type": "github_ecosystem",
+  "repo": "annabac-project/annales-bac-parser",
+  "title": "法国 Bac 历年各科目真题 (Annales) 文本提取与题型分类器",
+  "tech_stack": "Python, PDFMiner",
+  "domain": "France Bac",
+  "url": "https://github.com/annabac-project/annales-bac-parser",
+  "description": "法国 Bac 历年各科目真题 (Annales) 文本提取与题型分类器",
+  "path": "skills/github-ecosystem-100/repo-annales-bac-parser"
+}

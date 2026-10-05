@@ -1,0 +1,11 @@
+{
+  "id": "repo-ielts-writing-task1-data",
+  "type": "github_ecosystem",
+  "repo": "ielts-writing-task1-data-engine/src",
+  "title": "输入图表数值自动生成雅思学术 Task 1 标准客观描述句型代码库",
+  "tech_stack": "Python, Matplotlib",
+  "domain": "IELTS Writing",
+  "url": "https://github.com/ielts-writing-task1-data-engine/src",
+  "description": "输入图表数值自动生成雅思学术 Task 1 标准客观描述句型代码库",
+  "path": "skills/github-ecosystem-100/repo-ielts-writing-task1-data"
+}

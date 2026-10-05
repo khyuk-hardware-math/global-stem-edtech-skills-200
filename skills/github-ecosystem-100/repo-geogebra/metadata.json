@@ -1,0 +1,11 @@
+{
+  "id": "repo-geogebra",
+  "type": "github_ecosystem",
+  "repo": "GeoGebra/geogebra",
+  "title": "全球数亿师生使用的动态几何与代数计算开源生态，支持 2D/3D 作图",
+  "tech_stack": "Java, JavaScript, WebAssembly",
+  "domain": "Geometry",
+  "url": "https://github.com/GeoGebra/geogebra",
+  "description": "全球数亿师生使用的动态几何与代数计算开源生态，支持 2D/3D 作图",
+  "path": "skills/github-ecosystem-100/repo-geogebra"
+}

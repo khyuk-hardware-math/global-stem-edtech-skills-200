@@ -1,0 +1,10 @@
+{
+  "id": "latex-exam-paper-assembler",
+  "type": "edtech_pedagogy",
+  "title": "题干、解析、公式表、答题卡 A4/B4 考卷工业级组装技能",
+  "region": "Exam Assembly",
+  "subject": "Publishing",
+  "hardware_node": "seoul-m4-director",
+  "description": "自动化合并试卷题干、答案解析、答题卡、考生须知与公式表，支持单/双面 A4 与 B4 规格。",
+  "path": "skills/edtech-pedagogy-100/latex-exam-paper-assembler"
+}

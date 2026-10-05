@@ -1,0 +1,10 @@
+{
+  "id": "atar-vce-specialist-maths",
+  "type": "edtech_pedagogy",
+  "title": "澳大利亚维州 VCE Specialist 运动轨迹向量微分与 Argand 复数技能",
+  "region": "Australia VCE",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "攻克拟合运动轨迹的向量微分、复数轨迹在 Argand 图上的交集、以及假设检验正态置信区间。",
+  "path": "skills/edtech-pedagogy-100/atar-vce-specialist-maths"
+}

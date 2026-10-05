@@ -1,0 +1,10 @@
+{
+  "id": "suneung-ebs-linkage-scanner",
+  "type": "edtech_pedagogy",
+  "title": "韩国 EBS《修能特讲/完成》题目变式与 6/9月模考比对技能",
+  "region": "Korea EBS",
+  "subject": "Curriculum",
+  "hardware_node": "seoul-m4-director",
+  "description": "扫描 EBS《修能特讲》《修能完成》与当年 6月/9月 模拟考的题干情境变式与设问迁移。",
+  "path": "skills/edtech-pedagogy-100/suneung-ebs-linkage-scanner"
+}

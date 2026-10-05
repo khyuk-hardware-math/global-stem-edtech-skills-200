@@ -1,0 +1,11 @@
+{
+  "id": "repo-openstax-cnx",
+  "type": "github_ecosystem",
+  "repo": "OpenStax/cnx",
+  "title": "莱斯大学 OpenStax 开源大学与 AP 预备数理化教科书平台",
+  "tech_stack": "Python, JavaScript",
+  "domain": "AP / University",
+  "url": "https://github.com/OpenStax/cnx",
+  "description": "莱斯大学 OpenStax 开源大学与 AP 预备数理化教科书平台",
+  "path": "skills/github-ecosystem-100/repo-openstax-cnx"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "kyotsu-test-math-2bc-vector",
+  "type": "edtech_pedagogy",
+  "title": "日本共通测试 数学Ⅱ・B・C 空间向量与递归数列极限技能",
+  "region": "Japan Common Test",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "攻克微积分基础、数列递归式、平面与空间向量内积外心、复平面转动与二次曲线。",
+  "path": "skills/edtech-pedagogy-100/kyotsu-test-math-2bc-vector"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "repo-ielts-reading-cambridge-parser",
+  "type": "github_ecosystem",
+  "repo": "ielts-reading-cambridge-parser/core",
+  "title": "剑桥雅思 4-19 历年阅读真题同义词替换字典自动提取器",
+  "tech_stack": "Python, BeautifulSoup",
+  "domain": "IELTS Reading",
+  "url": "https://github.com/ielts-reading-cambridge-parser/core",
+  "description": "剑桥雅思 4-19 历年阅读真题同义词替换字典自动提取器",
+  "path": "skills/github-ecosystem-100/repo-ielts-reading-cambridge-parser"
+}

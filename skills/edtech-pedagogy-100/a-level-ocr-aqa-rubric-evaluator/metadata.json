@@ -1,0 +1,10 @@
+{
+  "id": "a-level-ocr-aqa-rubric-evaluator",
+  "type": "edtech_pedagogy",
+  "title": "英国 Edexcel, AQA, OCR 三大考局评分准则细分评核技能",
+  "region": "UK A-Level",
+  "subject": "Pedagogy",
+  "hardware_node": "seoul-m4-director",
+  "description": "严格按 Edexcel/AQA/OCR 考局评分细则（Mark Schemes）核验关键词，防止步骤失分。",
+  "path": "skills/edtech-pedagogy-100/a-level-ocr-aqa-rubric-evaluator"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cinematique-mecanique-point",
+  "type": "edtech_pedagogy",
+  "title": "法国高中经典力学极坐标与 Frenet 自然坐标系运动学推演技能",
+  "region": "France Lycée",
+  "subject": "Physics",
+  "hardware_node": "seoul-m4-director",
+  "description": "用法语向量微积分表述质点运动学（直角坐标、柱坐标、弗雷内自然坐标系 Frenet 曲率加速度推导）。",
+  "path": "skills/edtech-pedagogy-100/cinematique-mecanique-point"
+}

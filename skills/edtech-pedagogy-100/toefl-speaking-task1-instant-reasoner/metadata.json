@@ -1,0 +1,10 @@
+{
+  "id": "toefl-speaking-task1-instant-reasoner",
+  "type": "edtech_pedagogy",
+  "title": "托福独立口语 Task 1 15秒准备时间二选一论据秒出技能",
+  "region": "TOEFL Speaking",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "针对二选一或同意与否问题，在 15 秒准备时间内迅速产出 2 个互斥论据与具体细节支撑。",
+  "path": "skills/edtech-pedagogy-100/toefl-speaking-task1-instant-reasoner"
+}

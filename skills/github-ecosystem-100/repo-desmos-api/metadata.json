@@ -1,0 +1,11 @@
+{
+  "id": "repo-desmos-api",
+  "type": "github_ecosystem",
+  "repo": "Desmos/api-examples",
+  "title": "著名在线图形计算器 Desmos API 的官方示例与高等函数图像交互开发包",
+  "tech_stack": "JavaScript, HTML5",
+  "domain": "Dynamic Graphing",
+  "url": "https://github.com/Desmos/api-examples",
+  "description": "著名在线图形计算器 Desmos API 的官方示例与高等函数图像交互开发包",
+  "path": "skills/github-ecosystem-100/repo-desmos-api"
+}

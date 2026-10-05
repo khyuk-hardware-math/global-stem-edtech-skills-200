@@ -1,0 +1,10 @@
+{
+  "id": "kota-super30-speed-solver",
+  "type": "edtech_pedagogy",
+  "title": "印度 Kota 与 Super 30 体系极限维度分析与速解思维技能",
+  "region": "India JEE",
+  "subject": "Multi-STEM",
+  "hardware_node": "seoul-m4-director",
+  "description": "模拟 Kota 顶尖教练训练法，提炼极限维度分析（Dimensional Analysis）与特征值代入排除速解法。",
+  "path": "skills/edtech-pedagogy-100/kota-super30-speed-solver"
+}

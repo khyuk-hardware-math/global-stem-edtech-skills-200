@@ -1,0 +1,10 @@
+{
+  "id": "ket-reading-matching-tactics",
+  "type": "edtech_pedagogy",
+  "title": "KET 阅读告示理解 (Notices & Signs) 核心动词与干扰项过滤技能",
+  "region": "Cambridge KET",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "训练短文告示理解（Notices & Signs），定位核心指令动词，排除形似神异的干扰选项。",
+  "path": "skills/edtech-pedagogy-100/ket-reading-matching-tactics"
+}

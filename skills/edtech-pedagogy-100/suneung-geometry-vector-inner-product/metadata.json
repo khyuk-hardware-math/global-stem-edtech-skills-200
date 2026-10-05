@@ -1,0 +1,10 @@
+{
+  "id": "suneung-geometry-vector-inner-product",
+  "type": "edtech_pedagogy",
+  "title": "韩国修能 几何空间正射影与动点向量内积极值圆构建技能",
+  "region": "Korea CSAT",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "针对空间图形正射影面积、平面向量动点内积最大值构造极值圆与轨迹方程。",
+  "path": "skills/edtech-pedagogy-100/suneung-geometry-vector-inner-product"
+}

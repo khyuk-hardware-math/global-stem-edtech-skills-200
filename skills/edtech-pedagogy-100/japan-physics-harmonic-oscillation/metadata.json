@@ -1,0 +1,10 @@
+{
+  "id": "japan-physics-harmonic-oscillation",
+  "type": "edtech_pedagogy",
+  "title": "日本高考物理 单振子力学耦合与电磁阻尼感应大题技能",
+  "region": "Japan Physics",
+  "subject": "Physics",
+  "hardware_node": "seoul-m4-director",
+  "description": "深度解析力学单振子系统、电磁感应中的感应电流阻尼运动与热力学循环 P-V 状态图分析。",
+  "path": "skills/edtech-pedagogy-100/japan-physics-harmonic-oscillation"
+}

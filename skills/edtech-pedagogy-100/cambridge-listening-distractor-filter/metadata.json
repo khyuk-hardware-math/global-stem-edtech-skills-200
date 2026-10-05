@@ -1,0 +1,10 @@
+{
+  "id": "cambridge-listening-distractor-filter",
+  "type": "edtech_pedagogy",
+  "title": "剑桥听力纠错信号词识别与转折陷阱过滤技能",
+  "region": "Cambridge Listening",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "训练学生捕捉听力音频中的纠错信号词（e.g., actually, I changed my mind），锁定真实答案。",
+  "path": "skills/edtech-pedagogy-100/cambridge-listening-distractor-filter"
+}

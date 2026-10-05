@@ -1,0 +1,10 @@
+{
+  "id": "tikz-pgfplots-physics-diagrams",
+  "type": "edtech_pedagogy",
+  "title": "考卷与论文级 TikZ 矢量受力分析图与卡诺热机循环绘制技能",
+  "region": "Vector Graphics",
+  "subject": "Physics",
+  "hardware_node": "seoul-m4-director",
+  "description": "编写 TikZ 矢量代码，绘制受力分析滑轮组、电场线/磁感线分布、热机卡诺循环与分子空间构型。",
+  "path": "skills/edtech-pedagogy-100/tikz-pgfplots-physics-diagrams"
+}

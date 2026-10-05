@@ -1,0 +1,11 @@
+{
+  "id": "repo-sympy",
+  "type": "github_ecosystem",
+  "repo": "sympy/sympy",
+  "title": "Python 符号数学运算标准库，支持微分、积分、矩阵与方程解析求解",
+  "tech_stack": "Python",
+  "domain": "Computer Algebra",
+  "url": "https://github.com/sympy/sympy",
+  "description": "Python 符号数学运算标准库，支持微分、积分、矩阵与方程解析求解",
+  "path": "skills/github-ecosystem-100/repo-sympy"
+}

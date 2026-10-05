@@ -1,0 +1,10 @@
+{
+  "id": "nsw-hsc-maths-extension-2",
+  "type": "edtech_pedagogy",
+  "title": "澳大利亚新州 HSC Extension 2 多项式有理根与三维旋转体积积分技能",
+  "region": "Australia HSC",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "深度掌握多项式有理根定理、三维立体旋转切片积分法（Shell/Disk method）与力学简谐运动。",
+  "path": "skills/edtech-pedagogy-100/nsw-hsc-maths-extension-2"
+}

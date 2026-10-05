@@ -1,0 +1,11 @@
+{
+  "id": "repo-toefl-vocab-flashcards",
+  "type": "github_ecosystem",
+  "repo": "toefl-vocabulary-flashcards-app/flutter",
+  "title": "集成托福高频 400 核心词、绿色词本与词根助记的移动端卡片程序",
+  "tech_stack": "Flutter, Dart",
+  "domain": "TOEFL Vocab",
+  "url": "https://github.com/toefl-vocabulary-flashcards-app/flutter",
+  "description": "集成托福高频 400 核心词、绿色词本与词根助记的移动端卡片程序",
+  "path": "skills/github-ecosystem-100/repo-toefl-vocab-flashcards"
+}

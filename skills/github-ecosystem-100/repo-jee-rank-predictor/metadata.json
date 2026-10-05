@@ -1,0 +1,11 @@
+{
+  "id": "repo-jee-rank-predictor",
+  "type": "github_ecosystem",
+  "repo": "neeraj980/jee-rank-predictor",
+  "title": "基于历年分数线训练的 JEE Main/Advanced 排名与大学预测模型",
+  "tech_stack": "Python, Scikit-learn",
+  "domain": "India JEE",
+  "url": "https://github.com/neeraj980/jee-rank-predictor",
+  "description": "基于历年分数线训练的 JEE Main/Advanced 排名与大学预测模型",
+  "path": "skills/github-ecosystem-100/repo-jee-rank-predictor"
+}

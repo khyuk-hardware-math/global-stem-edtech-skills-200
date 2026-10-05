@@ -1,0 +1,10 @@
+{
+  "id": "cambridge-young-phonics-decoding",
+  "type": "edtech_pedagogy",
+  "title": "剑桥青少儿英语自然拼读 44 个音标与双元音拆分训练技能",
+  "region": "Cambridge Phonics",
+  "subject": "English",
+  "hardware_node": "seoul-m4-director",
+  "description": "辅导字母组合发音规则（Digraphs/Diphthongs）、重读弱读规律，纠正基础语音语调。",
+  "path": "skills/edtech-pedagogy-100/cambridge-young-phonics-decoding"
+}

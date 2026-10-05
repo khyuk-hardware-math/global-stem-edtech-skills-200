@@ -1,0 +1,33 @@
+name: CI & Skills Integrity QA
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Run Integrity Unit Tests
+      run: |
+        python -m unittest discover -s tests -p "test_*.py"
+
+    - name: Validate 200 Skills Catalog
+      run: |
+        python -c "import json; data=json.load(open('core/catalog.json')); assert data['total_skills'] == 200; print('Catalog valid with exactly 200 skills!')"
+
+    - name: Test Dispatch CLI
+      run: |
+        python scripts/dispatch_cli.py --list
+        python scripts/dispatch_cli.py --query "IELTS Task 2"
+        python scripts/dispatch_cli.py --query "JEE Rotational Dynamics"

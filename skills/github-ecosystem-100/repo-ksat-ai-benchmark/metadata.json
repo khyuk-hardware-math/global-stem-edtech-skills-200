@@ -1,0 +1,11 @@
+{
+  "id": "repo-ksat-ai-benchmark",
+  "type": "github_ecosystem",
+  "repo": "roboco-io/KSAT-AI-Benchmark",
+  "title": "韩国高考自动化题目解析、视觉图表处理与大模型自动做题评分流",
+  "tech_stack": "Python, FastAPI",
+  "domain": "Korea CSAT",
+  "url": "https://github.com/roboco-io/KSAT-AI-Benchmark",
+  "description": "韩国高考自动化题目解析、视觉图表处理与大模型自动做题评分流",
+  "path": "skills/github-ecosystem-100/repo-ksat-ai-benchmark"
+}

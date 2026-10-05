@@ -1,0 +1,11 @@
+{
+  "id": "repo-japan-physics-sim",
+  "type": "github_ecosystem",
+  "repo": "japan-physics-sim/koukou-butsuri",
+  "title": "面向日本高校物理教材力学、波动、电磁学的交互式 HTML5 实验展示",
+  "tech_stack": "JavaScript, p5.js",
+  "domain": "Japan Physics",
+  "url": "https://github.com/japan-physics-sim/koukou-butsuri",
+  "description": "面向日本高校物理教材力学、波动、电磁学的交互式 HTML5 实验展示",
+  "path": "skills/github-ecosystem-100/repo-japan-physics-sim"
+}

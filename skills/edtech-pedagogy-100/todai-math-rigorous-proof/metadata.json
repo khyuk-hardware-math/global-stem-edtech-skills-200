@@ -1,0 +1,10 @@
+{
+  "id": "todai-math-rigorous-proof",
+  "type": "edtech_pedagogy",
+  "title": "东京大学二次试验 理系数学严密存在性证明与数论大题技能",
+  "region": "Japan Todai",
+  "subject": "Mathematics",
+  "hardware_node": "seoul-m4-director",
+  "description": "专攻东京大学论述大题：存在性命题证明、整除数论、立体几何截面面积与极限积分。",
+  "path": "skills/edtech-pedagogy-100/todai-math-rigorous-proof"
+}

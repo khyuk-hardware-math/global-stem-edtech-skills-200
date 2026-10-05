@@ -1,0 +1,11 @@
+{
+  "id": "repo-cefr-level-text-checker",
+  "type": "github_ecosystem",
+  "repo": "cefr-level-text-checker/core",
+  "title": "依据欧洲共同语言参考标准 (CEFR) 自动分析任意英文难度的分析仪",
+  "tech_stack": "Python, spaCy, NLTK",
+  "domain": "CEFR Assessment",
+  "url": "https://github.com/cefr-level-text-checker/core",
+  "description": "依据欧洲共同语言参考标准 (CEFR) 自动分析任意英文难度的分析仪",
+  "path": "skills/github-ecosystem-100/repo-cefr-level-text-checker"
+}

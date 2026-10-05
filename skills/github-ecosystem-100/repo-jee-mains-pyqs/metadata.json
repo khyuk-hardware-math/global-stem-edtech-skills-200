@@ -1,0 +1,11 @@
+{
+  "id": "repo-jee-mains-pyqs",
+  "type": "github_ecosystem",
+  "repo": "HostServer001/jee_mains_pyqs_data_base",
+  "title": "包含 14,000+ 道 JEE Main 历年真题结构化数据库",
+  "tech_stack": "Python, SQLite, JSON",
+  "domain": "India JEE",
+  "url": "https://github.com/HostServer001/jee_mains_pyqs_data_base",
+  "description": "包含 14,000+ 道 JEE Main 历年真题结构化数据库",
+  "path": "skills/github-ecosystem-100/repo-jee-mains-pyqs"
+}
